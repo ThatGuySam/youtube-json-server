@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ThatGuySam/youtube-json-server#readme",
   "dependencies": {
+    "googleapis": "^47.0.0",
     "isomorphic-unfetch": "latest"
   }
 }
