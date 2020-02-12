@@ -6,7 +6,7 @@ import 'isomorphic-unfetch'
 module.exports = async function (req, res) {
     const { query: { slug } } = url.parse(req.url, true)
 
-    // Fetch the front page of reddit as JSON
+    // Fetch the subreddit as JSON
     const apiResponse = await fetch(`https://www.reddit.com/r/${slug}/top.json`)
     // Convert data to json
     const json = await apiResponse.json()
