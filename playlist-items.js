@@ -4,11 +4,13 @@ import url from 'url'
 import { google } from 'googleapis'
 
 module.exports = async function (req, res) {
+    // Break out the id param from our request's query string
     const { query: { id } } = url.parse(req.url, true)
 
     // Setup Youtube API V3 Service instance
     const service = google.youtube('v3')
 
+    // Fetch data from the Youtube API
     const { errors = null, data = null } = await service.playlistItems.list({
         // auth: auth,
         key: process.env.GOOGLE_API_KEY,
