@@ -1,4 +1,5 @@
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/ThatGuySam/zeit-now-stale-example)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ThatGuySam/zeit-now-stale-example)
+
 
 # Zeit Now Stale-While-Revalidate Caching Eaxmple
 
