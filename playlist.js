@@ -1,7 +1,7 @@
 // URL utility
 import url from 'url'
 // The universal version of Fetch so we can use it on both the server and browser
-import 'isomorphic-unfetch'
+// import 'isomorphic-unfetch'
 
 module.exports = async function (req, res) {
     const { query: { slug } } = url.parse(req.url, true)

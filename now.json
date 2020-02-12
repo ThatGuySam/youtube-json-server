@@ -2,13 +2,13 @@
     "version": 2,
     "builds": [
         { "src": "index.html", "use": "@now/static" },
-        { "src": "subreddit.js", "use": "@now/node" }
+        { "src": "playlist.js", "use": "@now/node" }
     ],
     "routes": [
         {
-            "src": "/subreddit/(?<slug>[^/]*)",
+            "src": "/playlist/(?<playlistId>[^/]*)",
             "headers": {"cache-control": "s-maxage=300, stale-while-revalidate"},
-            "dest": "/subreddit.js?slug=slug"
+            "dest": "/playlist.js?id=playlistId"
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-  "name": "zeit-now-stale-example",
+  "name": "youtube-json-server",
   "version": "1.0.0",
-  "description": "A simple example of how to cache requests via Zeit Now to reduce server and database loads while still delivering fast response time by using Stale-While-Revalidate to update the cached data in the background. ",
+  "description": "Your personal Youtube API server to get Youtube API responses without needing credentials. ",
   "main": "subreddit.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThatGuySam/zeit-now-stale-example.git"
+    "url": "git+https://github.com/ThatGuySam/youtube-json-server.git"
   },
   "author": "@ThatGuySam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThatGuySam/zeit-now-stale-example/issues"
+    "url": "https://github.com/ThatGuySam/youtube-json-server/issues"
   },
-  "homepage": "https://github.com/ThatGuySam/zeit-now-stale-example#readme",
+  "homepage": "https://github.com/ThatGuySam/youtube-json-server#readme",
   "dependencies": {
     "isomorphic-unfetch": "latest"
   }

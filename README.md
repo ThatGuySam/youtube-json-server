@@ -1,14 +1,12 @@
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ThatGuySam/zeit-now-stale-example)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ThatGuySam/youtube-json-server)
 
 
-# Zeit Now Stale-While-Revalidate Caching Example
+# Youtube JSON Server
 
 
-A simple example of how to cache requests via Zeit Now to reduce server and database loads while still delivering fast response time by using Stale-While-Revalidate to update the cached data in the background. 
+Your personal Youtube API server to get Youtube API responses without needing credentials. 
 
 Caches for 5 minutes(set as 300 seconds) which can be updated from /now.json in the root directory. 
 
-
-[About Stale-While-Revalidate on Zeit](https://zeit.co/docs/v2/network/caching#stale-while-revalidate)
 
 
