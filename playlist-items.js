@@ -16,6 +16,7 @@ module.exports = async function (req, res) {
         key: process.env.GOOGLE_API_KEY,
         part: 'snippet,contentDetails',
         playlistId: id,
+        maxResults: 50,
         // forUsername: 'GoogleDevelopers'
     }).catch(({ errors }) => {
 
