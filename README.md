@@ -11,7 +11,7 @@ Caches for 5 minutes(set as 300 seconds) which can be updated from /now.json in 
 
 Install Node & [Now CLI](https://zeit.co/download).
 
-Create or get a Google API Key with permissions to access the Youtube Data API https://developers.google.com/youtube/registering_an_application
+Create or get a Google API Key with permissions to access the Youtube Data API https://developers.google.com/youtube/v3/getting-started
 
 We'll need to let Zeit know what your Google Key is which can only be done with the Now CLI
 
