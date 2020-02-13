@@ -41,8 +41,6 @@ module.exports = async function (req, res) {
 
     const items = data.items
 
-    console.log('data.nextPageToken', data.nextPageToken)
-
     // If there are more results then push them to our playlist
     if (data.nextPageToken !== null) {
 
@@ -66,6 +64,8 @@ module.exports = async function (req, res) {
             pageToken = ('nextPageToken' in youtubePageResponse.data) ? youtubePageResponse.data.nextPageToken : null
         }
     }
+
+    console.log(`Fetched ${items.length} videos from https://www.youtube.com/playlist?list=${id}`)
 
     res.json(items)
 }
