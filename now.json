@@ -16,7 +16,7 @@
         },
         {
             "src": "/channel-broadcasts/(?<channelId>[^/]*)",
-            "headers": {"cache-control": "s-maxage=300, stale-while-revalidate"},
+            "headers": {"cache-control": "s-maxage=60, stale-while-revalidate"},
             "dest": "/channel-broadcasts.js?id=$channelId"
         }
     ]
