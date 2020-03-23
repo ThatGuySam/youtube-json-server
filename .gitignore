@@ -2,5 +2,5 @@
 /node_modules
 /.env
 /test/snapshots/*
-/dist
+/public/dist
 /mix-manifest.json

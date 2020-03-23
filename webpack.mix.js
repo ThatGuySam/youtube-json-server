@@ -12,7 +12,7 @@ let mix = require('laravel-mix');
  */
 
 mix
-    .js('src/embed.js', 'dist/embed.js')
+    .js('src/embed.js', 'public/dist/embed.js')
 
 // Full API
 // mix.js(src, output);
