@@ -9,13 +9,12 @@ import listen from 'test-listen'
 require('dotenv').config()
 
 
-// import playlistItems from '../playlist-items'
 const playlistItems = require('../playlist-items')
 
-// const TEN_SECONDS = 10 * 1000
+const channelBroadcasts = require('../channel-broadcasts')
 
-let server
-let url
+
+// const TEN_SECONDS = 10 * 1000
 
 // test.before(async t => {
 // 	// This runs before all tests
@@ -27,9 +26,9 @@ let url
 test('Can not get invalid playlist', async t => {
 
 	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
-	server = createServer(playlistItems)
+	const server = createServer(playlistItems)
 
-	url = await listen(server)
+	const url = await listen(server)
 
 	const { data } = await axios.get(url, {
 		params: {
@@ -43,6 +42,8 @@ test('Can not get invalid playlist', async t => {
 	const givesFetchingError = (data.errors === 'Error fetching playlist')
 
 	t.true(hasErrorsKey && givesFetchingError)
+
+	server.close()
 })
 
 test('Can get playlist items', async t => {
@@ -50,9 +51,10 @@ test('Can get playlist items', async t => {
 	const monkeyIslandPlayistID = 'PL5m2E4NlwhJa_SJ4dcAZNxtr50PSkIAMI'
 
 	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
-	server = createServer(playlistItems)
+	const server = createServer(playlistItems)
 
-	url = await listen(server)
+	const url = await listen(server)
+	// console.log('Playlists test url', url)
 
 	const response = await axios.get(url, {
 		params: {
@@ -61,7 +63,63 @@ test('Can get playlist items', async t => {
 	})
 
 	t.snapshot(response.data)
+
+	await server.close()
 })
+
+
+test('Shows no events for not live channel', async t => {
+
+	const samCarltonChannelID = 'UCB3jOb5QVjX7lYecvyCoTqQ'
+
+	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
+	const server = createServer(channelBroadcasts)
+
+	const url = await listen(server)
+	// console.log('Broadcasts test url', url)
+
+	const { data } = await axios.get(url, {
+		params: {
+			id: samCarltonChannelID
+		}
+	})
+
+	// console.log('Broadcasts data', data)
+
+	const hasZeroLiveBroadcasts = (data.length === 0)
+	
+	t.true(hasZeroLiveBroadcasts)
+
+	server.close()
+})
+
+
+test('Shows events for currently live channel', async t => {
+
+	const flareTVChannelID = 'UCmrlqFIK_QQCsr3FRHa3OKw'
+
+	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
+	const server = createServer(channelBroadcasts)
+
+	const url = await listen(server)
+	// console.log('Broadcasts test url', url)
+
+	const { data } = await axios.get(url, {
+		params: {
+			id: flareTVChannelID
+		}
+	})
+
+	// console.log('Broadcasts data', data)
+
+	const hasAnyLiveBroadcasts = (data.length !== 0)
+	
+	t.true(hasAnyLiveBroadcasts)
+
+	server.close()
+})
+
+
 
 
 // const url = 'https://google.com';
