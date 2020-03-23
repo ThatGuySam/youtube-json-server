@@ -3,7 +3,7 @@ import test from 'ava'
 import axios from 'axios'
 import listen from 'test-listen'
 
-import withPage from './_withPage'
+// import withPage from './_withPage'
 
 // Pull in dotenv variables
 require('dotenv').config()
@@ -12,7 +12,7 @@ require('dotenv').config()
 // import playlistItems from '../playlist-items'
 const playlistItems = require('../playlist-items')
 
-const TEN_SECONDS = 10 * 1000
+// const TEN_SECONDS = 10 * 1000
 
 let server
 let url
