@@ -4,7 +4,14 @@
   "description": "Your personal Youtube API server to get Youtube API responses without needing credentials. ",
   "main": "subreddit.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava --timeout=1m",
+    "deploy": "now",
+    "dev": "now dev"
+  },
+  "ava": {
+    "require": [
+      "esm"
+    ]
   },
   "repository": {
     "type": "git",
