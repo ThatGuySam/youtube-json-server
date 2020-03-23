@@ -14,6 +14,18 @@ const playlistItems = require('../playlist-items')
 const channelBroadcasts = require('../channel-broadcasts')
 
 
+const buildZeitTestServer = async (serverlessFunction) => {
+	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
+	const server = createServer(serverlessFunction)
+
+	const url = await listen(server)
+
+	return {
+		server,
+		url
+	}
+}
+
 // const TEN_SECONDS = 10 * 1000
 
 // test.before(async t => {
@@ -25,10 +37,7 @@ const channelBroadcasts = require('../channel-broadcasts')
 
 test('Can not get invalid playlist', async t => {
 
-	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
-	const server = createServer(playlistItems)
-
-	const url = await listen(server)
+	const { server, url } = await buildZeitTestServer(playlistItems)
 
 	const { data } = await axios.get(url, {
 		params: {
@@ -50,10 +59,8 @@ test('Can get playlist items', async t => {
 
 	const monkeyIslandPlayistID = 'PL5m2E4NlwhJa_SJ4dcAZNxtr50PSkIAMI'
 
-	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
-	const server = createServer(playlistItems)
-
-	const url = await listen(server)
+	const { server, url } = await buildZeitTestServer(playlistItems)
+	
 	// console.log('Playlists test url', url)
 
 	const response = await axios.get(url, {
@@ -72,10 +79,8 @@ test('Shows no events for not live channel', async t => {
 
 	const samCarltonChannelID = 'UCB3jOb5QVjX7lYecvyCoTqQ'
 
-	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
-	const server = createServer(channelBroadcasts)
+	const { server, url } = await buildZeitTestServer(channelBroadcasts)
 
-	const url = await listen(server)
 	// console.log('Broadcasts test url', url)
 
 	const { data } = await axios.get(url, {
@@ -84,7 +89,7 @@ test('Shows no events for not live channel', async t => {
 		}
 	})
 
-	// console.log('Broadcasts data', data)
+	console.log('Broadcasts data', data)
 
 	const hasZeroLiveBroadcasts = (data.length === 0)
 	
@@ -98,10 +103,8 @@ test('Shows events for currently live channel', async t => {
 
 	const flareTVChannelID = 'UCmrlqFIK_QQCsr3FRHa3OKw'
 
-	// https://github.com/ctrlplusb/zeit-now-node-server#unit-testing-your-lambdas
-	const server = createServer(channelBroadcasts)
+	const { server, url } = await buildZeitTestServer(channelBroadcasts)
 
-	const url = await listen(server)
 	// console.log('Broadcasts test url', url)
 
 	const { data } = await axios.get(url, {
