@@ -4,18 +4,14 @@
         "GOOGLE_API_KEY": "@youtube-json-google-key"
     },
     "builds": [
+        { "src": "playlist-items.js", "use": "@now/node" },
+        { "src": "channel-broadcasts.js", "use": "@now/node" },
         {
             "src": "public/**",
             "use": "@now/static"
-        },
-        { "src": "playlist-items.js", "use": "@now/node" },
-        { "src": "channel-broadcasts.js", "use": "@now/node" }
+        }
     ],
     "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/public/$1"
-        },
         {
             "src": "/playlist-items/(?<playlistId>[^/]*)",
             "headers": {"cache-control": "s-maxage=300, stale-while-revalidate"},
@@ -25,6 +21,10 @@
             "src": "/channel-broadcasts/(?<channelId>[^/]*)",
             "headers": {"cache-control": "s-maxage=60, stale-while-revalidate"},
             "dest": "/channel-broadcasts.js?id=$channelId"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/public/$1"
         }
     ]
 }
