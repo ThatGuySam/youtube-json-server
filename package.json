@@ -5,7 +5,7 @@
   "main": "subreddit.js",
   "scripts": {
     "test": "ava --timeout=1m",
-    "build": "npm run production",
+    "now-build": "npm run production",
     "deploy": "now",
     "dev": "now dev",
     "start": "npm run production",
