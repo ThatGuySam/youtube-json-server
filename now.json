@@ -23,6 +23,10 @@
             "dest": "/channel-broadcasts.js?id=$channelId"
         },
         {
+            "src": "/dist/(.*)",
+            "dest": "/public/dist/$1"
+        },
+        {
             "src": "/(.*)",
             "dest": "/public/$1"
         }
