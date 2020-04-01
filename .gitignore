@@ -3,4 +3,5 @@
 /.env
 /test/snapshots/*
 /public/dist
-/mix-manifest.json
+/public/mix-manifest.json
+
