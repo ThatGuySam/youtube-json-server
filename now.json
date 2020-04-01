@@ -8,7 +8,7 @@
         { "src": "channel-broadcasts.js", "use": "@now/node" },
         {
             "src": "public/**",
-            "use": "@now/static"
+            "use": "@now/node"
         }
     ],
     "routes": [
