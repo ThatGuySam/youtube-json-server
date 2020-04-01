@@ -7,8 +7,12 @@
         { "src": "playlist-items.js", "use": "@now/node" },
         { "src": "channel-broadcasts.js", "use": "@now/node" },
         {
-            "src": "public/**",
-            "use": "@now/node"
+            "src": "public/dist/**",
+            "use": "@now/static"
+        },
+        {
+            "src": "package.json",
+            "use": "@now/static-build"
         }
     ],
     "routes": [
