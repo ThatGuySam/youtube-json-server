@@ -4,3 +4,4 @@
 /test/snapshots/*
 /public/dist
 /mix-manifest.json
+.vercel
