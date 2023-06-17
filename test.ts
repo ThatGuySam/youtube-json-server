@@ -1,5 +1,5 @@
-import assert from 'assert'
-import fs from 'fs/promises'
+import assert from 'node:assert'
+import fs from 'node:fs/promises'
 
 
 const expectedPlaylists = new Set([
