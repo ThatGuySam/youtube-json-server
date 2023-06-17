@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@types/node':
+    specifier: ^20.3.1
+    version: 20.3.1
   axios:
     specifier: ^0.19.2
     version: 0.19.2
@@ -39,7 +42,7 @@ devDependencies:
     version: 3.12.7
   vercel:
     specifier: ^30.2.2
-    version: 30.2.2(@types/node@14.18.33)
+    version: 30.2.2(@types/node@20.3.1)
   vue-template-compiler:
     specifier: ^2.6.11
     version: 2.6.11
@@ -2123,7 +2126,6 @@ packages:
 
   /@types/node@20.3.1:
     resolution: {integrity: sha512-EhcH/wvidPy1WeML3TtYFGR83UzjxeWRen9V402T8aUGYsCHOmfoisV3ZSg03gAFIbLq8TnWOJ0f4cALtnSEUg==}
-    dev: true
 
   /@types/normalize-package-data@2.4.1:
     resolution: {integrity: sha512-Gj7cI7z+98M282Tqmp2K5EIsoouUEzbBJhQQzDE3jSIRk6r9gsz0oUokqIUR4u1R3dMHo0pDHM7sNOHyhulypw==}
@@ -2167,7 +2169,7 @@ packages:
       outdent: 0.8.0
     dev: true
 
-  /@vanilla-extract/integration@6.2.1(@types/node@14.18.33):
+  /@vanilla-extract/integration@6.2.1(@types/node@20.3.1):
     resolution: {integrity: sha512-+xYJz07G7TFAMZGrOqArOsURG+xcYvqctujEkANjw2McCBvGEK505RxQqOuNiA9Mi9hgGdNp2JedSa94f3eoLg==}
     dependencies:
       '@babel/core': 7.22.5
@@ -2181,8 +2183,8 @@ packages:
       lodash: 4.17.21
       mlly: 1.3.0
       outdent: 0.8.0
-      vite: 4.3.9(@types/node@14.18.33)
-      vite-node: 0.28.5(@types/node@14.18.33)
+      vite: 4.3.9(@types/node@20.3.1)
+      vite-node: 0.28.5(@types/node@20.3.1)
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -2307,10 +2309,10 @@ packages:
       - supports-color
     dev: true
 
-  /@vercel/remix-builder@1.8.13(@types/node@14.18.33):
+  /@vercel/remix-builder@1.8.13(@types/node@20.3.1):
     resolution: {integrity: sha512-e0FxwZu0kthsvE//4wvVviSANXhRpvt2CQx4W8jHbEK3DX0ryOU5dLASEog2W7MUd2anYuqbl3LW9gUS2VOxvA==}
     dependencies:
-      '@remix-run/dev': /@vercel/remix-run-dev@1.17.0(@types/node@14.18.33)
+      '@remix-run/dev': /@vercel/remix-run-dev@1.17.0(@types/node@20.3.1)
       '@vercel/build-utils': 6.7.5
       '@vercel/nft': 0.22.5
       '@vercel/static-config': 2.0.17
@@ -2333,7 +2335,7 @@ packages:
       - utf-8-validate
     dev: true
 
-  /@vercel/remix-run-dev@1.17.0(@types/node@14.18.33):
+  /@vercel/remix-run-dev@1.17.0(@types/node@20.3.1):
     resolution: {integrity: sha512-S71dx9sxHi/9Ery9za+ryQYNq5rEA/OeWFaKalHsgA7jYhiJC2U2iP9lV4m251oLXp3K6J8gwY0zF1CWmA7ANA==}
     engines: {node: '>=14'}
     hasBin: true
@@ -2354,7 +2356,7 @@ packages:
       '@babel/types': 7.22.5
       '@npmcli/package-json': 2.0.0
       '@remix-run/server-runtime': 1.17.0
-      '@vanilla-extract/integration': 6.2.1(@types/node@14.18.33)
+      '@vanilla-extract/integration': 6.2.1(@types/node@20.3.1)
       arg: 5.0.2
       cacache: 15.3.0
       chalk: 4.1.2
@@ -12311,7 +12313,7 @@ packages:
     resolution: {integrity: sha512-/juG65kTL4Cy2su4P8HjtkTxk6VmJDiOPBufWniqQ6wknac6jNiXS9vU+hO3wgusiyqWlzTbVHi0dyJqRONg3w==}
     dev: true
 
-  /vercel@30.2.2(@types/node@14.18.33):
+  /vercel@30.2.2(@types/node@20.3.1):
     resolution: {integrity: sha512-lUHOUvXwALYxtZ1pbiT/YD3OijGPIo7yT/WGC1BOCPt08Vx1bUzNhMRX6eAp+tuFfqccG+NeDUjOfhpWGTwulA==}
     engines: {node: '>= 14'}
     hasBin: true
@@ -12324,7 +12326,7 @@ packages:
       '@vercel/node': 2.15.1
       '@vercel/python': 3.1.60
       '@vercel/redwood': 1.1.15
-      '@vercel/remix-builder': 1.8.13(@types/node@14.18.33)
+      '@vercel/remix-builder': 1.8.13(@types/node@20.3.1)
       '@vercel/ruby': 1.3.76
       '@vercel/static-build': 1.3.36
     transitivePeerDependencies:
@@ -12361,7 +12363,7 @@ packages:
       vfile-message: 3.1.4
     dev: true
 
-  /vite-node@0.28.5(@types/node@14.18.33):
+  /vite-node@0.28.5(@types/node@20.3.1):
     resolution: {integrity: sha512-LmXb9saMGlrMZbXTvOveJKwMTBTNUH66c8rJnQ0ZPNX+myPEol64+szRzXtV5ORb0Hb/91yq+/D3oERoyAt6LA==}
     engines: {node: '>=v14.16.0'}
     hasBin: true
@@ -12373,7 +12375,7 @@ packages:
       picocolors: 1.0.0
       source-map: 0.6.1
       source-map-support: 0.5.21
-      vite: 4.3.9(@types/node@14.18.33)
+      vite: 4.3.9(@types/node@20.3.1)
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -12384,7 +12386,7 @@ packages:
       - terser
     dev: true
 
-  /vite@4.3.9(@types/node@14.18.33):
+  /vite@4.3.9(@types/node@20.3.1):
     resolution: {integrity: sha512-qsTNZjO9NoJNW7KnOrgYwczm0WctJ8m/yqYAMAK9Lxt4SoySUfS5S8ia9K7JHpa3KEeMfyF8LoJ3c5NeBJy6pg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
@@ -12409,7 +12411,7 @@ packages:
       terser:
         optional: true
     dependencies:
-      '@types/node': 14.18.33
+      '@types/node': 20.3.1
       esbuild: 0.17.19
       postcss: 8.4.24
       rollup: 3.25.1
