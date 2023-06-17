@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Your personal Youtube API server to get Youtube API responses without needing credentials. ",
   "main": "subreddit.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "test": "ava --timeout=1m",
     "build": "echo 'Hi! 👋 No build needed'",
