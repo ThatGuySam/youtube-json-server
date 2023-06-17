@@ -44,6 +44,7 @@
     "laravel-mix": "^5.0.4",
     "puppeteer": "^2.1.1",
     "test-listen": "^1.1.0",
+    "tsx": "^3.12.7",
     "vue-template-compiler": "^2.6.11",
     "zeit-now-node-server": "^1.0.1"
   }
