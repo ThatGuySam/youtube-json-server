@@ -19,7 +19,7 @@ const expectedPlaylists = new Set([
     'PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli',
 ])
 
-const playlistPath = 'http://localhost:3000/playlist-items'
+const playlistPath = 'https://osborn-youtube-json.vercel.app/playlist-items'
 
 function makePlaylistUrl ( playlistId: string ) {
     return `${ playlistPath }/${playlistId}`
