@@ -1,0 +1,3256 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "QHSNOb7ewXPp1HLyr__ql9KtkFA",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yQUJFNUVCMzVDNjcxRTlF",
+        "snippet": {
+            "publishedAt": "2021-03-31T01:53:09Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Can I Use Biblical Principles In Raising My Children | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "JEtDQYsRMjg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "JEtDQYsRMjg",
+            "videoPublishedAt": "2021-03-31T01:53:09Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "h5vDNs-lqh-M01myRpQgRSZLzk4",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yQjZFRkExQjFGODk3RUFD",
+        "snippet": {
+            "publishedAt": "2021-03-30T02:06:01Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Can I Find Freedom | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "CaILMJvFtEY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "CaILMJvFtEY",
+            "videoPublishedAt": "2021-03-17T16:25:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "uDOdmEk8wnrwBXDQvZjoesXIj68",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41MzY4MzcwOUFFRUU3QzEx",
+        "snippet": {
+            "publishedAt": "2021-03-29T02:03:41Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do Believers Speak In Tongues | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "5UuIqTbY75U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "5UuIqTbY75U",
+            "videoPublishedAt": "2021-03-29T02:03:42Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YrAQNxzi1lfPgPbYGAWZJH5TGZs",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DRUQwODMxQzUyRTlGRkY3",
+        "snippet": {
+            "publishedAt": "2021-03-28T01:30:47Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Do I Receive The Holy Spirit | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6epc2Dv-phw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "6epc2Dv-phw",
+            "videoPublishedAt": "2021-11-16T17:52:33Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "T1IbMLumFXF0wqZJWlqbGPm3Axk",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DNkMwRUI2MkI4QkI4NDFG",
+        "snippet": {
+            "publishedAt": "2021-03-27T02:03:16Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Do I Overcome Anxiety | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fACC-va-i5Y"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "fACC-va-i5Y",
+            "videoPublishedAt": "2021-03-27T02:03:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "MOtjHbLcULyw6y-be8qaUUfsCJw",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45NkVENTkxRDdCQUFBMDY4",
+        "snippet": {
+            "publishedAt": "2021-03-26T03:12:50Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Pray Out Loud When God Knows What I'm Thinking | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ZnyN4pGANAo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ZnyN4pGANAo",
+            "videoPublishedAt": "2021-03-26T03:12:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "JH1VKJ4GZtHW9cI4OiBQOETU1a8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5GNDg1Njc1QzZERjlFRjE5",
+        "snippet": {
+            "publishedAt": "2021-03-24T01:34:51Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Participate In Fasting | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "58rfAj1NqvU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "58rfAj1NqvU",
+            "videoPublishedAt": "2021-03-24T01:34:51Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GKYNaoa1vwL8q1YFHui6gcWaaV0",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4xOTEzQzhBQzU3MDNDNjcz",
+        "snippet": {
+            "publishedAt": "2021-03-23T03:48:50Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Is It Important To Study My Bible | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "b_FbD1gnXH4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "b_FbD1gnXH4",
+            "videoPublishedAt": "2021-03-23T03:48:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "hqnL_ViYkLWMNfGEigrfBQrXl80",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5BRjJDODk5REM0NjkzMUIy",
+        "snippet": {
+            "publishedAt": "2021-03-22T00:41:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Is Our Body The Temple Of The Holy Spirit | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "SUErfTltY-4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "SUErfTltY-4",
+            "videoPublishedAt": "2021-11-16T17:52:29Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Naie21Q-p3HmRP8ww4FUMBeoS9M",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS40QTA3NTU2RkM1QzlCMzYx",
+        "snippet": {
+            "publishedAt": "2021-03-21T01:24:13Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Was David A Man After God's Heart | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "H2Bosq17xKM"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "H2Bosq17xKM",
+            "videoPublishedAt": "2021-03-21T01:24:13Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Bcj9kbX0tIijorKjt7FKDUJCyh8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45RjNFMDhGQ0Q2RkFCQTc1",
+        "snippet": {
+            "publishedAt": "2021-03-20T02:29:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should We Take Holy Communion | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "GxlkS3Ny8IM"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "GxlkS3Ny8IM",
+            "videoPublishedAt": "2021-11-16T17:52:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "F2qcatYNFpBJ5KbDB30sPTuk9TU",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS42MTI4Njc2QjM1RjU1MjlG",
+        "snippet": {
+            "publishedAt": "2021-03-19T02:12:48Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Use My Talents For The Lord | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "t3-oluIkXZk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "t3-oluIkXZk",
+            "videoPublishedAt": "2021-03-19T02:12:51Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "SmUB2hNZDP24L730drJcEELVtt4",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5CMEQ2Mjk5NTc3NDZFRUNB",
+        "snippet": {
+            "publishedAt": "2021-03-18T01:30:10Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Did God Allow The Devil to Test Job | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FXlf0wQYGCs"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FXlf0wQYGCs",
+            "videoPublishedAt": "2021-03-18T01:30:10Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GUyN5RyCzHEvViJ4WIb9Sn91g2g",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4zRDBDOEZDOUM0MDY5NEEz",
+        "snippet": {
+            "publishedAt": "2021-03-17T02:00:11Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Tell Others About My Miracle? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ev5nz1LuLWs"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ev5nz1LuLWs",
+            "videoPublishedAt": "2021-03-17T02:00:11Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "0QA6x-TaH_n9DSvlFAveEicTh7g",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41QUZGQTY5OTE4QTREQUU4",
+        "snippet": {
+            "publishedAt": "2021-03-16T01:52:28Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Be Expecting Jesus' Return? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FUVvXK52spE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FUVvXK52spE",
+            "videoPublishedAt": "2021-03-16T01:52:28Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "UQTekHAr48OCI2LixgOOTxVmO9o",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS43NDhFRTgwOTRERTU4Rjg3",
+        "snippet": {
+            "publishedAt": "2021-03-15T03:42:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Did Jesus Go To Heaven? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "4xXuE2xmQkA"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "4xXuE2xmQkA",
+            "videoPublishedAt": "2021-03-15T03:42:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "J61W7f6PtSKkHeWlqphncvSiiv8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS44Mjc5REFBRUE2MTdFRDU0",
+        "snippet": {
+            "publishedAt": "2021-03-14T02:48:35Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Can't I Hear God's Voice? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 16,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UrCabQI_cG4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "UrCabQI_cG4",
+            "videoPublishedAt": "2021-03-14T02:48:36Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "R4-DahR8TjYHGvVqEJPwg3WTRWw",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DMkU4NTY1QUFGQTYwMDE3",
+        "snippet": {
+            "publishedAt": "2021-03-13T02:59:25Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Happy Birthday Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 17,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "cxFqBdwlx-Q"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "cxFqBdwlx-Q",
+            "videoPublishedAt": "2021-03-13T02:59:25Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GV__1rFScgiQtyf0inmKI6zID0s",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yQUE2Q0JEMTk4NTM3RTZC",
+        "snippet": {
+            "publishedAt": "2021-03-12T03:03:07Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does God Not Answer My Prayer? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 18,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "WAyPAbD-LHQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "WAyPAbD-LHQ",
+            "videoPublishedAt": "2021-03-12T03:03:07Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ov_uwcSRZv1hOTYVrfp43M9qqNI",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS43MTI1NDIwOTMwQjIxMzNG",
+        "snippet": {
+            "publishedAt": "2021-03-10T15:10:21Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Can't I Stop Sinning? - Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 19,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "klb90IR4rKY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "klb90IR4rKY",
+            "videoPublishedAt": "2021-03-10T06:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "3QPtuEUg2NBipeVENRoCrLje40w",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+        "snippet": {
+            "publishedAt": "2021-03-11T02:17:16Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Doesn't Everybody Receive Healing? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 20,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "d-AzNJniSS4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "d-AzNJniSS4",
+            "videoPublishedAt": "2021-03-11T02:17:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "yoz8-KlZ48zc_iBDnuy6UXJU_mY",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DNzE1RjZEMUZCMjA0RDBB",
+        "snippet": {
+            "publishedAt": "2021-03-09T15:16:40Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Are There Church Splits? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 21,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "srK4Yxr1FF4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "srK4Yxr1FF4",
+            "videoPublishedAt": "2021-03-09T06:15:01Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "hujhwuminUUSVOuGpcmaK_5V8fM",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45NzUwQkI1M0UxNThBMkU0",
+        "snippet": {
+            "publishedAt": "2021-03-08T03:06:18Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do I Need The Church? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 22,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jV7XmAlNaHg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "jV7XmAlNaHg",
+            "videoPublishedAt": "2021-03-08T03:06:19Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "_aPHD-NdfYn9Me08Ii3Pwd6dOVs",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4zRjM0MkVCRTg0MkYyQTM0",
+        "snippet": {
+            "publishedAt": "2021-03-07T02:58:23Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do I Feel Lonely? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 23,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jQtYHVUB_lg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "jQtYHVUB_lg",
+            "videoPublishedAt": "2021-03-07T03:06:57Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "t9P4E427TQHgnAo9MI15-f9QeRk",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5GM0Q3M0MzMzY5NTJFNTdE",
+        "snippet": {
+            "publishedAt": "2021-03-06T14:28:55Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Be Baptized In Water? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 24,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "X6ImRp1wU24"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "X6ImRp1wU24",
+            "videoPublishedAt": "2021-03-06T06:00:07Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "dAHIC9Rq0IPQenNfLhCRFS5KbaY",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5ENDU4Q0M4RDExNzM1Mjcy",
+        "snippet": {
+            "publishedAt": "2021-03-04T01:51:25Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does The Devil Attack Me? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 25,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "psRGqSkSq3Q"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "psRGqSkSq3Q",
+            "videoPublishedAt": "2021-03-04T01:51:25Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "oUsQ86zPE_ZvL3ZMbQTIgkyqJ80",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2021-02-26T21:44:36Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do I Need The infilling Of The Holy Spirit? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 26,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "aeyL04kNYic"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "aeyL04kNYic",
+            "videoPublishedAt": "2021-03-03T02:18:34Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "jOutlktZq7wiHmK3JnLAX1MZpy8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2021-02-26T21:43:33Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does God Love Me? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 27,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "o9K9gwZYeVs"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "o9K9gwZYeVs",
+            "videoPublishedAt": "2021-03-02T01:36:01Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "XSZBpZy4zUi0OZTS6_lNXKeIY1Y",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45RTgxNDRBMzUwRjQ0MDhC",
+        "snippet": {
+            "publishedAt": "2021-03-01T01:48:24Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "We Are Celebrating All Month Long! | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 28,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "mAReCF2eNkU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "mAReCF2eNkU",
+            "videoPublishedAt": "2021-03-01T06:00:08Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "9OWv4VIWIbWPTqUmIGRB9cCMydE",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2021-02-26T14:15:04Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "74 Years of Wisdom | Dr. LaDonna Osborn",
+            "description": "During the entire month of March we are posting a 3-minute podcast to inspire you and to celebrate my birthday.\n\nCelebrating \"74 Years of Wisdom\" is an opportunity for us to share my answers to specific questions that have been posed to me. I love to help people find clarity and relevance in the Word of God.\n\nI've been in ministry for over 50 years among people of more than 100 nations, cultures and most religions. Many things have changed in my 7 plus decades, but THE TRUTHS OF Jesus Christ remain the same!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 29,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "LrtRN_jKSeA"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "LrtRN_jKSeA",
+            "videoPublishedAt": "2021-02-26T14:16:22Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "VXOnN_JQ9-Ir3C4VOf9jLDUk5Zw",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yMDhBMkNBNjRDMjQxQTg1",
+        "snippet": {
+            "publishedAt": "2021-03-05T00:10:25Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Give to God? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 30,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "XusmbfaUx0E"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "XusmbfaUx0E",
+            "videoPublishedAt": "2021-03-05T00:10:25Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "IPyg4rMqTtfceRHx4CtDyXTgEoo",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4zQzFBN0RGNzNFREFCMjBE",
+        "snippet": {
+            "publishedAt": "2021-03-25T02:02:06Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does God Allow Certain Tragedies In My Life | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 31,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ht5G_9p4m5c"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ht5G_9p4m5c",
+            "videoPublishedAt": "2021-03-25T02:02:06Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "QHSNOb7ewXPp1HLyr__ql9KtkFA",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yQUJFNUVCMzVDNjcxRTlF",
+        "snippet": {
+            "publishedAt": "2021-03-31T01:53:09Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Can I Use Biblical Principles In Raising My Children | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JEtDQYsRMjg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "JEtDQYsRMjg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "JEtDQYsRMjg",
+            "videoPublishedAt": "2021-03-31T01:53:09Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "h5vDNs-lqh-M01myRpQgRSZLzk4",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yQjZFRkExQjFGODk3RUFD",
+        "snippet": {
+            "publishedAt": "2021-03-30T02:06:01Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Can I Find Freedom | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CaILMJvFtEY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "CaILMJvFtEY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "CaILMJvFtEY",
+            "videoPublishedAt": "2021-03-17T16:25:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "uDOdmEk8wnrwBXDQvZjoesXIj68",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41MzY4MzcwOUFFRUU3QzEx",
+        "snippet": {
+            "publishedAt": "2021-03-29T02:03:41Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do Believers Speak In Tongues | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5UuIqTbY75U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "5UuIqTbY75U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "5UuIqTbY75U",
+            "videoPublishedAt": "2021-03-29T02:03:42Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YrAQNxzi1lfPgPbYGAWZJH5TGZs",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DRUQwODMxQzUyRTlGRkY3",
+        "snippet": {
+            "publishedAt": "2021-03-28T01:30:47Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Do I Receive The Holy Spirit | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6epc2Dv-phw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6epc2Dv-phw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "6epc2Dv-phw",
+            "videoPublishedAt": "2021-11-16T17:52:33Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "T1IbMLumFXF0wqZJWlqbGPm3Axk",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DNkMwRUI2MkI4QkI4NDFG",
+        "snippet": {
+            "publishedAt": "2021-03-27T02:03:16Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How Do I Overcome Anxiety | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fACC-va-i5Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fACC-va-i5Y"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "fACC-va-i5Y",
+            "videoPublishedAt": "2021-03-27T02:03:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "MOtjHbLcULyw6y-be8qaUUfsCJw",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45NkVENTkxRDdCQUFBMDY4",
+        "snippet": {
+            "publishedAt": "2021-03-26T03:12:50Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Pray Out Loud When God Knows What I'm Thinking | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZnyN4pGANAo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ZnyN4pGANAo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ZnyN4pGANAo",
+            "videoPublishedAt": "2021-03-26T03:12:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "JH1VKJ4GZtHW9cI4OiBQOETU1a8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5GNDg1Njc1QzZERjlFRjE5",
+        "snippet": {
+            "publishedAt": "2021-03-24T01:34:51Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Participate In Fasting | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/58rfAj1NqvU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "58rfAj1NqvU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "58rfAj1NqvU",
+            "videoPublishedAt": "2021-03-24T01:34:51Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GKYNaoa1vwL8q1YFHui6gcWaaV0",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4xOTEzQzhBQzU3MDNDNjcz",
+        "snippet": {
+            "publishedAt": "2021-03-23T03:48:50Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Is It Important To Study My Bible | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/b_FbD1gnXH4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "b_FbD1gnXH4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "b_FbD1gnXH4",
+            "videoPublishedAt": "2021-03-23T03:48:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "hqnL_ViYkLWMNfGEigrfBQrXl80",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5BRjJDODk5REM0NjkzMUIy",
+        "snippet": {
+            "publishedAt": "2021-03-22T00:41:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Is Our Body The Temple Of The Holy Spirit | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/SUErfTltY-4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "SUErfTltY-4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "SUErfTltY-4",
+            "videoPublishedAt": "2021-11-16T17:52:29Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Naie21Q-p3HmRP8ww4FUMBeoS9M",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS40QTA3NTU2RkM1QzlCMzYx",
+        "snippet": {
+            "publishedAt": "2021-03-21T01:24:13Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Was David A Man After God's Heart | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/H2Bosq17xKM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "H2Bosq17xKM"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "H2Bosq17xKM",
+            "videoPublishedAt": "2021-03-21T01:24:13Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Bcj9kbX0tIijorKjt7FKDUJCyh8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45RjNFMDhGQ0Q2RkFCQTc1",
+        "snippet": {
+            "publishedAt": "2021-03-20T02:29:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should We Take Holy Communion | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GxlkS3Ny8IM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "GxlkS3Ny8IM"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "GxlkS3Ny8IM",
+            "videoPublishedAt": "2021-11-16T17:52:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "F2qcatYNFpBJ5KbDB30sPTuk9TU",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS42MTI4Njc2QjM1RjU1MjlG",
+        "snippet": {
+            "publishedAt": "2021-03-19T02:12:48Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Use My Talents For The Lord | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/t3-oluIkXZk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "t3-oluIkXZk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "t3-oluIkXZk",
+            "videoPublishedAt": "2021-03-19T02:12:51Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "SmUB2hNZDP24L730drJcEELVtt4",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5CMEQ2Mjk5NTc3NDZFRUNB",
+        "snippet": {
+            "publishedAt": "2021-03-18T01:30:10Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Did God Allow The Devil to Test Job | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FXlf0wQYGCs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FXlf0wQYGCs"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FXlf0wQYGCs",
+            "videoPublishedAt": "2021-03-18T01:30:10Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GUyN5RyCzHEvViJ4WIb9Sn91g2g",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4zRDBDOEZDOUM0MDY5NEEz",
+        "snippet": {
+            "publishedAt": "2021-03-17T02:00:11Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Tell Others About My Miracle? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ev5nz1LuLWs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ev5nz1LuLWs"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ev5nz1LuLWs",
+            "videoPublishedAt": "2021-03-17T02:00:11Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "0QA6x-TaH_n9DSvlFAveEicTh7g",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41QUZGQTY5OTE4QTREQUU4",
+        "snippet": {
+            "publishedAt": "2021-03-16T01:52:28Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Be Expecting Jesus' Return? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FUVvXK52spE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FUVvXK52spE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FUVvXK52spE",
+            "videoPublishedAt": "2021-03-16T01:52:28Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "UQTekHAr48OCI2LixgOOTxVmO9o",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS43NDhFRTgwOTRERTU4Rjg3",
+        "snippet": {
+            "publishedAt": "2021-03-15T03:42:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Did Jesus Go To Heaven? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4xXuE2xmQkA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "4xXuE2xmQkA"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "4xXuE2xmQkA",
+            "videoPublishedAt": "2021-03-15T03:42:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "J61W7f6PtSKkHeWlqphncvSiiv8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS44Mjc5REFBRUE2MTdFRDU0",
+        "snippet": {
+            "publishedAt": "2021-03-14T02:48:35Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Can't I Hear God's Voice? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UrCabQI_cG4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 16,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UrCabQI_cG4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "UrCabQI_cG4",
+            "videoPublishedAt": "2021-03-14T02:48:36Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "R4-DahR8TjYHGvVqEJPwg3WTRWw",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DMkU4NTY1QUFGQTYwMDE3",
+        "snippet": {
+            "publishedAt": "2021-03-13T02:59:25Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Happy Birthday Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/cxFqBdwlx-Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 17,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "cxFqBdwlx-Q"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "cxFqBdwlx-Q",
+            "videoPublishedAt": "2021-03-13T02:59:25Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GV__1rFScgiQtyf0inmKI6zID0s",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yQUE2Q0JEMTk4NTM3RTZC",
+        "snippet": {
+            "publishedAt": "2021-03-12T03:03:07Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does God Not Answer My Prayer? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/WAyPAbD-LHQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 18,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "WAyPAbD-LHQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "WAyPAbD-LHQ",
+            "videoPublishedAt": "2021-03-12T03:03:07Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ov_uwcSRZv1hOTYVrfp43M9qqNI",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS43MTI1NDIwOTMwQjIxMzNG",
+        "snippet": {
+            "publishedAt": "2021-03-10T15:10:21Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Can't I Stop Sinning? - Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/klb90IR4rKY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 19,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "klb90IR4rKY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "klb90IR4rKY",
+            "videoPublishedAt": "2021-03-10T06:00:06Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "3QPtuEUg2NBipeVENRoCrLje40w",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+        "snippet": {
+            "publishedAt": "2021-03-11T02:17:16Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Doesn't Everybody Receive Healing? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/d-AzNJniSS4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 20,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "d-AzNJniSS4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "d-AzNJniSS4",
+            "videoPublishedAt": "2021-03-11T02:17:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "yoz8-KlZ48zc_iBDnuy6UXJU_mY",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5DNzE1RjZEMUZCMjA0RDBB",
+        "snippet": {
+            "publishedAt": "2021-03-09T15:16:40Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Are There Church Splits? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/srK4Yxr1FF4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 21,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "srK4Yxr1FF4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "srK4Yxr1FF4",
+            "videoPublishedAt": "2021-03-09T06:15:01Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "hujhwuminUUSVOuGpcmaK_5V8fM",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45NzUwQkI1M0UxNThBMkU0",
+        "snippet": {
+            "publishedAt": "2021-03-08T03:06:18Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do I Need The Church? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jV7XmAlNaHg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 22,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jV7XmAlNaHg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "jV7XmAlNaHg",
+            "videoPublishedAt": "2021-03-08T03:06:19Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "_aPHD-NdfYn9Me08Ii3Pwd6dOVs",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4zRjM0MkVCRTg0MkYyQTM0",
+        "snippet": {
+            "publishedAt": "2021-03-07T02:58:23Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do I Feel Lonely? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/jQtYHVUB_lg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 23,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jQtYHVUB_lg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "jQtYHVUB_lg",
+            "videoPublishedAt": "2021-03-07T03:06:57Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "t9P4E427TQHgnAo9MI15-f9QeRk",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5GM0Q3M0MzMzY5NTJFNTdE",
+        "snippet": {
+            "publishedAt": "2021-03-06T14:28:55Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Be Baptized In Water? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/X6ImRp1wU24/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 24,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "X6ImRp1wU24"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "X6ImRp1wU24",
+            "videoPublishedAt": "2021-03-06T06:00:07Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "dAHIC9Rq0IPQenNfLhCRFS5KbaY",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS5ENDU4Q0M4RDExNzM1Mjcy",
+        "snippet": {
+            "publishedAt": "2021-03-04T01:51:25Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does The Devil Attack Me? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/psRGqSkSq3Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 25,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "psRGqSkSq3Q"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "psRGqSkSq3Q",
+            "videoPublishedAt": "2021-03-04T01:51:25Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "oUsQ86zPE_ZvL3ZMbQTIgkyqJ80",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2021-02-26T21:44:36Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Do I Need The infilling Of The Holy Spirit? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aeyL04kNYic/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 26,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "aeyL04kNYic"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "aeyL04kNYic",
+            "videoPublishedAt": "2021-03-03T02:18:34Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "jOutlktZq7wiHmK3JnLAX1MZpy8",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2021-02-26T21:43:33Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does God Love Me? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/o9K9gwZYeVs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 27,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "o9K9gwZYeVs"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "o9K9gwZYeVs",
+            "videoPublishedAt": "2021-03-02T01:36:01Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "XSZBpZy4zUi0OZTS6_lNXKeIY1Y",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS45RTgxNDRBMzUwRjQ0MDhC",
+        "snippet": {
+            "publishedAt": "2021-03-01T01:48:24Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "We Are Celebrating All Month Long! | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mAReCF2eNkU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 28,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "mAReCF2eNkU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "mAReCF2eNkU",
+            "videoPublishedAt": "2021-03-01T06:00:08Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "9OWv4VIWIbWPTqUmIGRB9cCMydE",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2021-02-26T14:15:04Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "74 Years of Wisdom | Dr. LaDonna Osborn",
+            "description": "During the entire month of March we are posting a 3-minute podcast to inspire you and to celebrate my birthday.\n\nCelebrating \"74 Years of Wisdom\" is an opportunity for us to share my answers to specific questions that have been posed to me. I love to help people find clarity and relevance in the Word of God.\n\nI've been in ministry for over 50 years among people of more than 100 nations, cultures and most religions. Many things have changed in my 7 plus decades, but THE TRUTHS OF Jesus Christ remain the same!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/LrtRN_jKSeA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 29,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "LrtRN_jKSeA"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "LrtRN_jKSeA",
+            "videoPublishedAt": "2021-02-26T14:16:22Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "VXOnN_JQ9-Ir3C4VOf9jLDUk5Zw",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4yMDhBMkNBNjRDMjQxQTg1",
+        "snippet": {
+            "publishedAt": "2021-03-05T00:10:25Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Should I Give to God? | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XusmbfaUx0E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 30,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "XusmbfaUx0E"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "XusmbfaUx0E",
+            "videoPublishedAt": "2021-03-05T00:10:25Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "IPyg4rMqTtfceRHx4CtDyXTgEoo",
+        "id": "UExjUGVRSmdMWXB1UnR3Rk1fWGhyWG1tT3QycTBuUl93SS4zQzFBN0RGNzNFREFCMjBE",
+        "snippet": {
+            "publishedAt": "2021-03-25T02:02:06Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why Does God Allow Certain Tragedies In My Life | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ht5G_9p4m5c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRtwFM_XhrXmmOt2q0nR_wI",
+            "position": 31,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ht5G_9p4m5c"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ht5G_9p4m5c",
+            "videoPublishedAt": "2021-03-25T02:02:06Z"
+        }
+    }
+]

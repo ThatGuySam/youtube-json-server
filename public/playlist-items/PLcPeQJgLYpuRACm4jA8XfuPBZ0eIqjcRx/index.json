@@ -1,0 +1,1068 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YG0IY6Sjnj2lZAIBir26c5DjfSw",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: Remember Who You Are",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Z04V0TzEZnA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Z04V0TzEZnA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Z04V0TzEZnA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Z04V0TzEZnA"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Z04V0TzEZnA",
+            "videoPublishedAt": "2013-11-26T14:55:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Ghbwl30uGHYvHfAY2ObUvVAUP6w",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: Think Right! Live Right! Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9PcRodA1bVU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9PcRodA1bVU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9PcRodA1bVU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "9PcRodA1bVU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "9PcRodA1bVU",
+            "videoPublishedAt": "2013-11-26T14:57:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "-FRRq9xl5-Q6wTp29_jnK38-JkE",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3: Think Right! Live Right! Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yUSv6-1hQdk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yUSv6-1hQdk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yUSv6-1hQdk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "yUSv6-1hQdk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "yUSv6-1hQdk",
+            "videoPublishedAt": "2013-11-26T15:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ogLwH04bdr3ZCrk1q2saNwToqbA",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4: Think Right! Live Right! Pt  3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Hw4oW-yy6Mc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Hw4oW-yy6Mc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Hw4oW-yy6Mc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Hw4oW-yy6Mc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Hw4oW-yy6Mc",
+            "videoPublishedAt": "2013-11-26T15:02:19Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "gV9Ds3EEPoNBTdHmqdlhApVnj9Y",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5: The Dynamic of Faith",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a9omigJC5Vg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a9omigJC5Vg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a9omigJC5Vg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "a9omigJC5Vg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "a9omigJC5Vg",
+            "videoPublishedAt": "2013-11-26T15:04:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "CzedY_hdjf1ZCjSGSJ55YCQbGBc",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: The Dynamic of Righteousness",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yGSBzX_PsRE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yGSBzX_PsRE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yGSBzX_PsRE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "yGSBzX_PsRE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "yGSBzX_PsRE",
+            "videoPublishedAt": "2013-11-26T15:07:04Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Ii0tdMzjJJ9sMbU9ohYBi45nUBw",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: The Dynamic of Wisdom",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rrG_5NQeykc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rrG_5NQeykc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rrG_5NQeykc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "rrG_5NQeykc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "rrG_5NQeykc",
+            "videoPublishedAt": "2013-11-26T15:09:35Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "rXIpFAFMYU7OcdDtzlrJDdyZ43o",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: The Dynamic of Love",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0Kzf17aXGdw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0Kzf17aXGdw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0Kzf17aXGdw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0Kzf17aXGdw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "0Kzf17aXGdw",
+            "videoPublishedAt": "2013-11-26T15:11:34Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "tZAOxcQfwnr_PztWhLOfd1NBTaQ",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: The Dynamic of Joy",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hseGT-3Oml8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hseGT-3Oml8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hseGT-3Oml8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "hseGT-3Oml8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "hseGT-3Oml8",
+            "videoPublishedAt": "2013-11-26T15:13:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "LoidKwXH4ZtcVqkYgjyDqsQPyks",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: The Dynamic of Patience",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bDAbQCg47m4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bDAbQCg47m4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bDAbQCg47m4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "bDAbQCg47m4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "bDAbQCg47m4",
+            "videoPublishedAt": "2013-11-26T15:15:29Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "tvH6xk87MGx4maQpzxQPrv80cVo",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: The Spirit Led Life Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MmFHRwVz0-E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MmFHRwVz0-E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MmFHRwVz0-E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MmFHRwVz0-E"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "MmFHRwVz0-E",
+            "videoPublishedAt": "2013-11-26T15:18:04Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "pRiyTlhp7352qhWA_SgG_oEkX1I",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: The Spirit Led Life Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NRhQ0wLcBvI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NRhQ0wLcBvI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NRhQ0wLcBvI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "NRhQ0wLcBvI"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "NRhQ0wLcBvI",
+            "videoPublishedAt": "2013-11-26T15:20:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "qwgzaxDlEZJc4DYNB_eoguuwQRI",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: The Spirit Led Life Pt  3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fpvrFq1W9C0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fpvrFq1W9C0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fpvrFq1W9C0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fpvrFq1W9C0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "fpvrFq1W9C0",
+            "videoPublishedAt": "2013-11-26T15:22:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YG0IY6Sjnj2lZAIBir26c5DjfSw",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: Remember Who You Are",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Z04V0TzEZnA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Z04V0TzEZnA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Z04V0TzEZnA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Z04V0TzEZnA"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Z04V0TzEZnA",
+            "videoPublishedAt": "2013-11-26T14:55:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Ghbwl30uGHYvHfAY2ObUvVAUP6w",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: Think Right! Live Right! Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9PcRodA1bVU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9PcRodA1bVU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9PcRodA1bVU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "9PcRodA1bVU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "9PcRodA1bVU",
+            "videoPublishedAt": "2013-11-26T14:57:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "-FRRq9xl5-Q6wTp29_jnK38-JkE",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3: Think Right! Live Right! Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yUSv6-1hQdk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yUSv6-1hQdk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yUSv6-1hQdk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "yUSv6-1hQdk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "yUSv6-1hQdk",
+            "videoPublishedAt": "2013-11-26T15:00:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ogLwH04bdr3ZCrk1q2saNwToqbA",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4: Think Right! Live Right! Pt  3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Hw4oW-yy6Mc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Hw4oW-yy6Mc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Hw4oW-yy6Mc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Hw4oW-yy6Mc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Hw4oW-yy6Mc",
+            "videoPublishedAt": "2013-11-26T15:02:19Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "gV9Ds3EEPoNBTdHmqdlhApVnj9Y",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5: The Dynamic of Faith",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a9omigJC5Vg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a9omigJC5Vg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a9omigJC5Vg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "a9omigJC5Vg"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "a9omigJC5Vg",
+            "videoPublishedAt": "2013-11-26T15:04:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "CzedY_hdjf1ZCjSGSJ55YCQbGBc",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: The Dynamic of Righteousness",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yGSBzX_PsRE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yGSBzX_PsRE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yGSBzX_PsRE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "yGSBzX_PsRE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "yGSBzX_PsRE",
+            "videoPublishedAt": "2013-11-26T15:07:04Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Ii0tdMzjJJ9sMbU9ohYBi45nUBw",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: The Dynamic of Wisdom",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rrG_5NQeykc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rrG_5NQeykc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rrG_5NQeykc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "rrG_5NQeykc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "rrG_5NQeykc",
+            "videoPublishedAt": "2013-11-26T15:09:35Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "rXIpFAFMYU7OcdDtzlrJDdyZ43o",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: The Dynamic of Love",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0Kzf17aXGdw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0Kzf17aXGdw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0Kzf17aXGdw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0Kzf17aXGdw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "0Kzf17aXGdw",
+            "videoPublishedAt": "2013-11-26T15:11:34Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "tZAOxcQfwnr_PztWhLOfd1NBTaQ",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: The Dynamic of Joy",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hseGT-3Oml8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hseGT-3Oml8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hseGT-3Oml8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "hseGT-3Oml8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "hseGT-3Oml8",
+            "videoPublishedAt": "2013-11-26T15:13:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "LoidKwXH4ZtcVqkYgjyDqsQPyks",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: The Dynamic of Patience",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bDAbQCg47m4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bDAbQCg47m4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bDAbQCg47m4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "bDAbQCg47m4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "bDAbQCg47m4",
+            "videoPublishedAt": "2013-11-26T15:15:29Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "tvH6xk87MGx4maQpzxQPrv80cVo",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: The Spirit Led Life Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MmFHRwVz0-E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MmFHRwVz0-E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MmFHRwVz0-E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MmFHRwVz0-E"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "MmFHRwVz0-E",
+            "videoPublishedAt": "2013-11-26T15:18:04Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "pRiyTlhp7352qhWA_SgG_oEkX1I",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: The Spirit Led Life Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NRhQ0wLcBvI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NRhQ0wLcBvI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NRhQ0wLcBvI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "NRhQ0wLcBvI"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "NRhQ0wLcBvI",
+            "videoPublishedAt": "2013-11-26T15:20:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "qwgzaxDlEZJc4DYNB_eoguuwQRI",
+        "id": "UExjUGVRSmdMWXB1UkFDbTRqQThYZnVQQlowZUlxamNSeC41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:35:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: The Spirit Led Life Pt  3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fpvrFq1W9C0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fpvrFq1W9C0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fpvrFq1W9C0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRACm4jA8XfuPBZ0eIqjcRx",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fpvrFq1W9C0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "fpvrFq1W9C0",
+            "videoPublishedAt": "2013-11-26T15:22:14Z"
+        }
+    }
+]

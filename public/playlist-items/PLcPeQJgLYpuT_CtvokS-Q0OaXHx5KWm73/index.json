@@ -1,0 +1,636 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "_9p8ZL6Oww-VicslKypVkhOH2W4",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:39:40Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For LIFE  | Lesson 1",
+            "description": "Christian Absolutes For LIFE  | Lesson 1",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MW5zC0KS8QQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "MW5zC0KS8QQ",
+            "videoPublishedAt": "2020-06-13T19:56:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "kV1YfxCQHnmCE5yYpJeXWG2zZrE",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:39:09Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 2",
+            "description": "Christian Absolutes For Life  | Lesson 2",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "gwqRiLiPp9U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "gwqRiLiPp9U",
+            "videoPublishedAt": "2020-06-13T20:15:24Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "O0IAEVTPljgeQm9NyiZ4JdZssw4",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:38:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 3",
+            "description": "Christian Absolutes For Life  | Lesson 3",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ZN6d0h8AOfE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ZN6d0h8AOfE",
+            "videoPublishedAt": "2020-06-13T20:33:57Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "6SnkI-DdiXScQWr3In0HRTDt0ws",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:38:23Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 4",
+            "description": "Christian Absolutes For Life  | Lesson 4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "gSt3L7ItCRM"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "gSt3L7ItCRM",
+            "videoPublishedAt": "2020-06-13T20:52:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "_5vs4yePcl-GTxgfuESOHyiVv6Y",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:37:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 5",
+            "description": "Christian Absolutes For Life  | Lesson 5",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "xMUKdQxCUio"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "xMUKdQxCUio",
+            "videoPublishedAt": "2020-06-13T21:12:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "CDHju2nVyx5MOJx-ECERZTKu83M",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:37:37Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life | Lesson 6",
+            "description": "Christian Absolutes For Life | Lesson 6",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "29PkEIXXmlk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "29PkEIXXmlk",
+            "videoPublishedAt": "2020-06-13T21:31:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GkpWi0G8NmurXel0rmx2l4zkLfk",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:36:30Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 7",
+            "description": "Christian Absolutes For Life  | Lesson 7",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "60ABb2JxkKo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "60ABb2JxkKo",
+            "videoPublishedAt": "2020-06-13T21:51:03Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "_9p8ZL6Oww-VicslKypVkhOH2W4",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:39:40Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For LIFE  | Lesson 1",
+            "description": "Christian Absolutes For LIFE  | Lesson 1",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MW5zC0KS8QQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "MW5zC0KS8QQ",
+            "videoPublishedAt": "2020-06-13T19:56:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "kV1YfxCQHnmCE5yYpJeXWG2zZrE",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:39:09Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 2",
+            "description": "Christian Absolutes For Life  | Lesson 2",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gwqRiLiPp9U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "gwqRiLiPp9U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "gwqRiLiPp9U",
+            "videoPublishedAt": "2020-06-13T20:15:24Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "O0IAEVTPljgeQm9NyiZ4JdZssw4",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:38:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 3",
+            "description": "Christian Absolutes For Life  | Lesson 3",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZN6d0h8AOfE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ZN6d0h8AOfE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ZN6d0h8AOfE",
+            "videoPublishedAt": "2020-06-13T20:33:57Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "6SnkI-DdiXScQWr3In0HRTDt0ws",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:38:23Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 4",
+            "description": "Christian Absolutes For Life  | Lesson 4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gSt3L7ItCRM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "gSt3L7ItCRM"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "gSt3L7ItCRM",
+            "videoPublishedAt": "2020-06-13T20:52:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "_5vs4yePcl-GTxgfuESOHyiVv6Y",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:37:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 5",
+            "description": "Christian Absolutes For Life  | Lesson 5",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xMUKdQxCUio/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "xMUKdQxCUio"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "xMUKdQxCUio",
+            "videoPublishedAt": "2020-06-13T21:12:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "CDHju2nVyx5MOJx-ECERZTKu83M",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:37:37Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life | Lesson 6",
+            "description": "Christian Absolutes For Life | Lesson 6",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/29PkEIXXmlk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "29PkEIXXmlk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "29PkEIXXmlk",
+            "videoPublishedAt": "2020-06-13T21:31:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GkpWi0G8NmurXel0rmx2l4zkLfk",
+        "id": "UExjUGVRSmdMWXB1VF9DdHZva1MtUTBPYVhIeDVLV203My4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2020-06-14T01:36:30Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For Life  | Lesson 7",
+            "description": "Christian Absolutes For Life  | Lesson 7",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/60ABb2JxkKo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuT_CtvokS-Q0OaXHx5KWm73",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "60ABb2JxkKo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "60ABb2JxkKo",
+            "videoPublishedAt": "2020-06-13T21:51:03Z"
+        }
+    }
+]

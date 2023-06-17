@@ -1,0 +1,1068 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "c9Gvr_3IAoqoC6Ayw8CWuA-L484",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:00:30Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: Discover Your Creativity",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ry5bzn3JlQE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ry5bzn3JlQE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ry5bzn3JlQE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Ry5bzn3JlQE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Ry5bzn3JlQE",
+            "videoPublishedAt": "2013-12-03T14:38:15Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "D-ZLwAGSeGAfrZPKSRRXbXH_lEc",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:00:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: Cultivate Your Creativity",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hcoLxEZEEaI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hcoLxEZEEaI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hcoLxEZEEaI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "hcoLxEZEEaI"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "hcoLxEZEEaI",
+            "videoPublishedAt": "2013-12-03T14:41:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "EfkGLL_vu1d5R5Uw_QhHfekOaJc",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:13Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3: The Profile of Faith",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FE3VwbKSnG8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FE3VwbKSnG8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FE3VwbKSnG8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FE3VwbKSnG8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FE3VwbKSnG8",
+            "videoPublishedAt": "2013-12-03T14:44:03Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "r1VZWrnJn9UywQJsRetN1ptsKyw",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:23Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4: 5 Steps to Positive Faith Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Gp1yIrNISL8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Gp1yIrNISL8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Gp1yIrNISL8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Gp1yIrNISL8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Gp1yIrNISL8",
+            "videoPublishedAt": "2013-12-03T14:46:56Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Y9v1U_ZbjWZz9ZYkYy2lrOM2chQ",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:32Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5: 5 Steps to Positive Faith Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wo6wWz2xruY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wo6wWz2xruY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wo6wWz2xruY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wo6wWz2xruY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "wo6wWz2xruY",
+            "videoPublishedAt": "2013-12-03T14:49:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YDbXV5XaZwpT77iOo99Q8_qjdig",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:46Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: You Have Power over Sin",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JcpsbY4IQYI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JcpsbY4IQYI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JcpsbY4IQYI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "JcpsbY4IQYI"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "JcpsbY4IQYI",
+            "videoPublishedAt": "2013-12-03T14:52:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "D11H-DN9GreLapESwnkP6bEtNnQ",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:00Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: What Effective Confession Is",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oOsZaTXJTs0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oOsZaTXJTs0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oOsZaTXJTs0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "oOsZaTXJTs0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "oOsZaTXJTs0",
+            "videoPublishedAt": "2013-12-03T14:54:28Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "o-BRnouTg9C5oQeqplYzrzeF5C8",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:08Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: How to Use Effective Confession",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HXha6X_Cquo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HXha6X_Cquo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HXha6X_Cquo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "HXha6X_Cquo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "HXha6X_Cquo",
+            "videoPublishedAt": "2013-12-03T14:57:27Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "P97HA_1w2pj8rHW9bC42TKtaPz4",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:20Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: 3 Redemption Facts About God",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tZ4zF4Rut_I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tZ4zF4Rut_I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tZ4zF4Rut_I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "tZ4zF4Rut_I"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "tZ4zF4Rut_I",
+            "videoPublishedAt": "2013-12-03T14:59:21Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "erJS47xdPIJnAcBZd5s8FADSNNY",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: 3 Redemption Facts About You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/A9F-2mHgM8o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/A9F-2mHgM8o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/A9F-2mHgM8o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "A9F-2mHgM8o"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "A9F-2mHgM8o",
+            "videoPublishedAt": "2013-12-03T15:01:48Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "AABFZIYjP3kvXDO9IGjkuOADnbk",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:44Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: Practice the Presence of Jesus",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UkKSWqyJI2k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UkKSWqyJI2k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UkKSWqyJI2k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UkKSWqyJI2k"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "UkKSWqyJI2k",
+            "videoPublishedAt": "2013-12-03T15:05:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "eXp8VswmTb7_vA51cgUGdHYGLV4",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:54Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: God's Plan Revealed in You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3Q2V90hj01A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3Q2V90hj01A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3Q2V90hj01A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "3Q2V90hj01A"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "3Q2V90hj01A",
+            "videoPublishedAt": "2013-12-03T15:08:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "MwxZtsYKZrLt8DSjEzjEjJqX2NA",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:03:03Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: The Revelation of Redemption",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GcKI3F88JYw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GcKI3F88JYw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GcKI3F88JYw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "GcKI3F88JYw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "GcKI3F88JYw",
+            "videoPublishedAt": "2013-12-03T15:11:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "c9Gvr_3IAoqoC6Ayw8CWuA-L484",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:00:30Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: Discover Your Creativity",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ry5bzn3JlQE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ry5bzn3JlQE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ry5bzn3JlQE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Ry5bzn3JlQE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Ry5bzn3JlQE",
+            "videoPublishedAt": "2013-12-03T14:38:15Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "D-ZLwAGSeGAfrZPKSRRXbXH_lEc",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:00:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: Cultivate Your Creativity",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hcoLxEZEEaI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hcoLxEZEEaI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hcoLxEZEEaI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "hcoLxEZEEaI"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "hcoLxEZEEaI",
+            "videoPublishedAt": "2013-12-03T14:41:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "EfkGLL_vu1d5R5Uw_QhHfekOaJc",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:13Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3: The Profile of Faith",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FE3VwbKSnG8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FE3VwbKSnG8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FE3VwbKSnG8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FE3VwbKSnG8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FE3VwbKSnG8",
+            "videoPublishedAt": "2013-12-03T14:44:03Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "r1VZWrnJn9UywQJsRetN1ptsKyw",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:23Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4: 5 Steps to Positive Faith Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Gp1yIrNISL8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Gp1yIrNISL8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Gp1yIrNISL8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Gp1yIrNISL8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Gp1yIrNISL8",
+            "videoPublishedAt": "2013-12-03T14:46:56Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Y9v1U_ZbjWZz9ZYkYy2lrOM2chQ",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:32Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5: 5 Steps to Positive Faith Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wo6wWz2xruY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wo6wWz2xruY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wo6wWz2xruY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wo6wWz2xruY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "wo6wWz2xruY",
+            "videoPublishedAt": "2013-12-03T14:49:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "YDbXV5XaZwpT77iOo99Q8_qjdig",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:01:46Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: You Have Power over Sin",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JcpsbY4IQYI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JcpsbY4IQYI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JcpsbY4IQYI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "JcpsbY4IQYI"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "JcpsbY4IQYI",
+            "videoPublishedAt": "2013-12-03T14:52:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "D11H-DN9GreLapESwnkP6bEtNnQ",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:00Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: What Effective Confession Is",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oOsZaTXJTs0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oOsZaTXJTs0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oOsZaTXJTs0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "oOsZaTXJTs0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "oOsZaTXJTs0",
+            "videoPublishedAt": "2013-12-03T14:54:28Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "o-BRnouTg9C5oQeqplYzrzeF5C8",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:08Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: How to Use Effective Confession",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HXha6X_Cquo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HXha6X_Cquo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HXha6X_Cquo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "HXha6X_Cquo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "HXha6X_Cquo",
+            "videoPublishedAt": "2013-12-03T14:57:27Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "P97HA_1w2pj8rHW9bC42TKtaPz4",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:20Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: 3 Redemption Facts About God",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tZ4zF4Rut_I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tZ4zF4Rut_I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tZ4zF4Rut_I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "tZ4zF4Rut_I"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "tZ4zF4Rut_I",
+            "videoPublishedAt": "2013-12-03T14:59:21Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "erJS47xdPIJnAcBZd5s8FADSNNY",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:29Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: 3 Redemption Facts About You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/A9F-2mHgM8o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/A9F-2mHgM8o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/A9F-2mHgM8o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "A9F-2mHgM8o"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "A9F-2mHgM8o",
+            "videoPublishedAt": "2013-12-03T15:01:48Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "AABFZIYjP3kvXDO9IGjkuOADnbk",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:44Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: Practice the Presence of Jesus",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UkKSWqyJI2k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UkKSWqyJI2k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UkKSWqyJI2k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UkKSWqyJI2k"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "UkKSWqyJI2k",
+            "videoPublishedAt": "2013-12-03T15:05:14Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "eXp8VswmTb7_vA51cgUGdHYGLV4",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:02:54Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: God's Plan Revealed in You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3Q2V90hj01A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3Q2V90hj01A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3Q2V90hj01A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "3Q2V90hj01A"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "3Q2V90hj01A",
+            "videoPublishedAt": "2013-12-03T15:08:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "MwxZtsYKZrLt8DSjEzjEjJqX2NA",
+        "id": "UExjUGVRSmdMWXB1U21scEVhb1hKTUVpVENaZWwzWUJsaS45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-12-03T18:03:03Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: The Revelation of Redemption",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GcKI3F88JYw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GcKI3F88JYw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GcKI3F88JYw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuSmlpEaoXJMEiTCZel3YBli",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "GcKI3F88JYw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "GcKI3F88JYw",
+            "videoPublishedAt": "2013-12-03T15:11:14Z"
+        }
+    }
+]

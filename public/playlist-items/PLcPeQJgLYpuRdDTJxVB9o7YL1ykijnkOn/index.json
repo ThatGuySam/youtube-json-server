@@ -1,0 +1,1068 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "JFPCugNIsNYVUt42lPov9wH_9pM",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: Your Miracle Begins",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QG16H3sY7h8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QG16H3sY7h8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QG16H3sY7h8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "QG16H3sY7h8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "QG16H3sY7h8",
+            "videoPublishedAt": "2013-11-26T14:21:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ybeJ_AO9Plj4kSa6VhBkbuQlo90",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: Understand the New Birth",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IiIaWnn1CE8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IiIaWnn1CE8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IiIaWnn1CE8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "IiIaWnn1CE8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "IiIaWnn1CE8",
+            "videoPublishedAt": "2013-11-26T14:22:39Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ThchYcGzX6GbIx-q7BfhCisnFrg",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3: Be Master of the Flesh",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/agrnoP9w4ME/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/agrnoP9w4ME/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/agrnoP9w4ME/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "agrnoP9w4ME"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "agrnoP9w4ME",
+            "videoPublishedAt": "2013-11-26T14:25:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "7zoGbR_jiqkWYqMd6wR-60DnufE",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4: The Mission of the Holy Spirit Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-bZvzBNVJ2U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-bZvzBNVJ2U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-bZvzBNVJ2U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "-bZvzBNVJ2U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "-bZvzBNVJ2U",
+            "videoPublishedAt": "2013-11-26T14:26:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sl3DhZsHHwWiX7_yt0QktSvIoBY",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5:  The Mission of the Holy Spirit Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2AVyG1cx9vY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2AVyG1cx9vY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2AVyG1cx9vY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2AVyG1cx9vY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "2AVyG1cx9vY",
+            "videoPublishedAt": "2013-11-26T14:28:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "WScQsnEBYxUwTpuL78_3DB7obec",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: The Mission of the Holy Spirit Pt3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7GWMb0XHvgo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7GWMb0XHvgo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7GWMb0XHvgo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7GWMb0XHvgo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "7GWMb0XHvgo",
+            "videoPublishedAt": "2013-11-26T14:30:42Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "07eFsIm1jVMbMfYpgcf7SqzpCz8",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: How to Receive the Holy Spirit",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/u8xWXTes23g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/u8xWXTes23g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/u8xWXTes23g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "u8xWXTes23g"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "u8xWXTes23g",
+            "videoPublishedAt": "2013-11-26T14:33:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GT_Lq6RPXsY3tEclBfoabrwdI-s",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: Total New Living Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-R9ry9X30ic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-R9ry9X30ic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-R9ry9X30ic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "-R9ry9X30ic"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "-R9ry9X30ic",
+            "videoPublishedAt": "2013-11-26T14:36:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "XrYEu7X4MqOGo9rtLqRXThEmmJc",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: Total New Living Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nIApeNxi9fQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nIApeNxi9fQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nIApeNxi9fQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "nIApeNxi9fQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "nIApeNxi9fQ",
+            "videoPublishedAt": "2013-11-26T14:38:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "VTavP_94h7YjfGdLR0MqkNDPf1w",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: Total New Living Pt  3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tKTE7xFE574/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tKTE7xFE574/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tKTE7xFE574/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "tKTE7xFE574"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "tKTE7xFE574",
+            "videoPublishedAt": "2013-11-26T14:41:27Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "TsHtir8POlB7Oy-OqK2uNRPApdI",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: Total New Living Pt  4",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jIcT46mclrw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jIcT46mclrw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jIcT46mclrw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jIcT46mclrw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "jIcT46mclrw",
+            "videoPublishedAt": "2013-11-26T14:43:46Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "I75x0ugaXH3tIRU3jLlO2HdtHE4",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: The Love Standard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b9qx5laovx4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b9qx5laovx4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b9qx5laovx4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "b9qx5laovx4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "b9qx5laovx4",
+            "videoPublishedAt": "2013-11-26T14:46:12Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "0oiNI3-Ft_0IGI5UqXaY94-0l1s",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: Make the Truth Work for You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c26NcNQdcY4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c26NcNQdcY4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c26NcNQdcY4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "c26NcNQdcY4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "c26NcNQdcY4",
+            "videoPublishedAt": "2013-11-26T14:48:38Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "JFPCugNIsNYVUt42lPov9wH_9pM",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: Your Miracle Begins",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QG16H3sY7h8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QG16H3sY7h8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QG16H3sY7h8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "QG16H3sY7h8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "QG16H3sY7h8",
+            "videoPublishedAt": "2013-11-26T14:21:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ybeJ_AO9Plj4kSa6VhBkbuQlo90",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: Understand the New Birth",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IiIaWnn1CE8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IiIaWnn1CE8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IiIaWnn1CE8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "IiIaWnn1CE8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "IiIaWnn1CE8",
+            "videoPublishedAt": "2013-11-26T14:22:39Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ThchYcGzX6GbIx-q7BfhCisnFrg",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3: Be Master of the Flesh",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/agrnoP9w4ME/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/agrnoP9w4ME/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/agrnoP9w4ME/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "agrnoP9w4ME"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "agrnoP9w4ME",
+            "videoPublishedAt": "2013-11-26T14:25:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "7zoGbR_jiqkWYqMd6wR-60DnufE",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4: The Mission of the Holy Spirit Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-bZvzBNVJ2U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-bZvzBNVJ2U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-bZvzBNVJ2U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "-bZvzBNVJ2U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "-bZvzBNVJ2U",
+            "videoPublishedAt": "2013-11-26T14:26:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sl3DhZsHHwWiX7_yt0QktSvIoBY",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5:  The Mission of the Holy Spirit Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2AVyG1cx9vY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2AVyG1cx9vY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2AVyG1cx9vY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2AVyG1cx9vY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "2AVyG1cx9vY",
+            "videoPublishedAt": "2013-11-26T14:28:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "WScQsnEBYxUwTpuL78_3DB7obec",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: The Mission of the Holy Spirit Pt3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7GWMb0XHvgo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7GWMb0XHvgo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7GWMb0XHvgo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7GWMb0XHvgo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "7GWMb0XHvgo",
+            "videoPublishedAt": "2013-11-26T14:30:42Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "07eFsIm1jVMbMfYpgcf7SqzpCz8",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: How to Receive the Holy Spirit",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/u8xWXTes23g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/u8xWXTes23g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/u8xWXTes23g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "u8xWXTes23g"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "u8xWXTes23g",
+            "videoPublishedAt": "2013-11-26T14:33:17Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "GT_Lq6RPXsY3tEclBfoabrwdI-s",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: Total New Living Pt  1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-R9ry9X30ic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-R9ry9X30ic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-R9ry9X30ic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "-R9ry9X30ic"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "-R9ry9X30ic",
+            "videoPublishedAt": "2013-11-26T14:36:00Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "XrYEu7X4MqOGo9rtLqRXThEmmJc",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: Total New Living Pt  2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nIApeNxi9fQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nIApeNxi9fQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nIApeNxi9fQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "nIApeNxi9fQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "nIApeNxi9fQ",
+            "videoPublishedAt": "2013-11-26T14:38:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "VTavP_94h7YjfGdLR0MqkNDPf1w",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: Total New Living Pt  3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/tKTE7xFE574/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/tKTE7xFE574/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/tKTE7xFE574/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "tKTE7xFE574"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "tKTE7xFE574",
+            "videoPublishedAt": "2013-11-26T14:41:27Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "TsHtir8POlB7Oy-OqK2uNRPApdI",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: Total New Living Pt  4",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/jIcT46mclrw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/jIcT46mclrw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/jIcT46mclrw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "jIcT46mclrw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "jIcT46mclrw",
+            "videoPublishedAt": "2013-11-26T14:43:46Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "I75x0ugaXH3tIRU3jLlO2HdtHE4",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: The Love Standard",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b9qx5laovx4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b9qx5laovx4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b9qx5laovx4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "b9qx5laovx4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "b9qx5laovx4",
+            "videoPublishedAt": "2013-11-26T14:46:12Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "0oiNI3-Ft_0IGI5UqXaY94-0l1s",
+        "id": "UExjUGVRSmdMWXB1UmREVEp4VkI5bzdZTDF5a2lqbmtPbi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:32:59Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: Make the Truth Work for You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c26NcNQdcY4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c26NcNQdcY4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c26NcNQdcY4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuRdDTJxVB9o7YL1ykijnkOn",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "c26NcNQdcY4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "c26NcNQdcY4",
+            "videoPublishedAt": "2013-11-26T14:48:38Z"
+        }
+    }
+]

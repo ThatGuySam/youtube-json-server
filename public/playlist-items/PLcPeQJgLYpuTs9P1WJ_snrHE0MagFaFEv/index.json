@@ -1,0 +1,1068 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "NKGTtsxCDWHLri4xvBlBJi6b3xY",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: God Created You For a Purpose",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fLquUQy9kL4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fLquUQy9kL4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fLquUQy9kL4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fLquUQy9kL4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "fLquUQy9kL4",
+            "videoPublishedAt": "2013-11-26T13:36:42Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ogLRJ8D9OFsADBZOa6bbEwpENU8",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: See Yourself as God Designed You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pyx5Vp20MU8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pyx5Vp20MU8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pyx5Vp20MU8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "pyx5Vp20MU8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "pyx5Vp20MU8",
+            "videoPublishedAt": "2013-11-26T13:38:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "3aoQWPiOT2wvCe7ueZzJlUKvVo4",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3:  The Seed and the Harvest of Sin",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_ebDLqPC5tk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_ebDLqPC5tk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_ebDLqPC5tk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "_ebDLqPC5tk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "_ebDLqPC5tk",
+            "videoPublishedAt": "2013-11-26T13:40:59Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "gJFZETltGH4ns68XR4Bgd903au8",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4:  Identify the Source of Power",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VKh1qsH209M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VKh1qsH209M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VKh1qsH209M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "VKh1qsH209M"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "VKh1qsH209M",
+            "videoPublishedAt": "2013-11-26T13:43:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "4gfpq1W29awy_VtYOw_0Tyd961Y",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5:  Unmask the Enemy",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mYZ09yLi5MU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mYZ09yLi5MU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mYZ09yLi5MU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "mYZ09yLi5MU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "mYZ09yLi5MU",
+            "videoPublishedAt": "2013-11-26T13:45:38Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "e4fiQ5NZxsVbKgZp5VuedtcfER4",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: Refect the Unredeemed Status",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Kis3K8LWH58/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Kis3K8LWH58/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Kis3K8LWH58/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Kis3K8LWH58"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Kis3K8LWH58",
+            "videoPublishedAt": "2013-11-26T13:47:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Hra5nwVXhI6BZh_s2FisAPyzk0o",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: The Strategy of Redemption",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NU7G7CHfucw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NU7G7CHfucw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NU7G7CHfucw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "NU7G7CHfucw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "NU7G7CHfucw",
+            "videoPublishedAt": "2013-11-26T13:49:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "5ETkhW7E0GiyqdmNiW6TEAjPzpg",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: The Strategy of Redemption",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2exSG6wTlb4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2exSG6wTlb4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2exSG6wTlb4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2exSG6wTlb4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "2exSG6wTlb4",
+            "videoPublishedAt": "2013-11-26T13:51:59Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "80vnvYtTfM5mHdVcRv1-zx4JUTk",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: Look to Jesus",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PJyUPJUEth4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PJyUPJUEth4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PJyUPJUEth4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "PJyUPJUEth4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "PJyUPJUEth4",
+            "videoPublishedAt": "2013-11-26T13:54:13Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "efBRqP7zeSX89pMXG0dT2I6bS78",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: Jesus Satisfies Justice",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6HLRYsQ8Snc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6HLRYsQ8Snc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6HLRYsQ8Snc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6HLRYsQ8Snc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "6HLRYsQ8Snc",
+            "videoPublishedAt": "2013-11-26T13:55:59Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "PyW98bLzSqJ52y9s47m0ngeGGtU",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: Jesus the Redeemer",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CdAJNetRyZc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CdAJNetRyZc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CdAJNetRyZc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "CdAJNetRyZc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "CdAJNetRyZc",
+            "videoPublishedAt": "2013-11-26T13:58:05Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sxgpWTDkEslmsV3kk8fwyiVYOUA",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: Jesus the Conqueror",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7PyhyR1rEb8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7PyhyR1rEb8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7PyhyR1rEb8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7PyhyR1rEb8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "7PyhyR1rEb8",
+            "videoPublishedAt": "2013-11-26T14:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "jhXRWpMeP1cj6sU9nSj9WGyG8YY",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: You are His Witness",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0oVyfhsHCzQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0oVyfhsHCzQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0oVyfhsHCzQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0oVyfhsHCzQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "0oVyfhsHCzQ",
+            "videoPublishedAt": "2013-11-26T14:02:06Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "NKGTtsxCDWHLri4xvBlBJi6b3xY",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 1: God Created You For a Purpose",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fLquUQy9kL4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fLquUQy9kL4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fLquUQy9kL4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fLquUQy9kL4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "fLquUQy9kL4",
+            "videoPublishedAt": "2013-11-26T13:36:42Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ogLRJ8D9OFsADBZOa6bbEwpENU8",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 2: See Yourself as God Designed You",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pyx5Vp20MU8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pyx5Vp20MU8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pyx5Vp20MU8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "pyx5Vp20MU8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "pyx5Vp20MU8",
+            "videoPublishedAt": "2013-11-26T13:38:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "3aoQWPiOT2wvCe7ueZzJlUKvVo4",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 3:  The Seed and the Harvest of Sin",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_ebDLqPC5tk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_ebDLqPC5tk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_ebDLqPC5tk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "_ebDLqPC5tk"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "_ebDLqPC5tk",
+            "videoPublishedAt": "2013-11-26T13:40:59Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "gJFZETltGH4ns68XR4Bgd903au8",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 4:  Identify the Source of Power",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VKh1qsH209M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VKh1qsH209M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VKh1qsH209M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "VKh1qsH209M"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "VKh1qsH209M",
+            "videoPublishedAt": "2013-11-26T13:43:18Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "4gfpq1W29awy_VtYOw_0Tyd961Y",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 5:  Unmask the Enemy",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mYZ09yLi5MU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mYZ09yLi5MU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mYZ09yLi5MU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "mYZ09yLi5MU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "mYZ09yLi5MU",
+            "videoPublishedAt": "2013-11-26T13:45:38Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "e4fiQ5NZxsVbKgZp5VuedtcfER4",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 6: Refect the Unredeemed Status",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Kis3K8LWH58/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Kis3K8LWH58/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Kis3K8LWH58/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Kis3K8LWH58"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "Kis3K8LWH58",
+            "videoPublishedAt": "2013-11-26T13:47:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Hra5nwVXhI6BZh_s2FisAPyzk0o",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 7: The Strategy of Redemption",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NU7G7CHfucw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NU7G7CHfucw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NU7G7CHfucw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "NU7G7CHfucw"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "NU7G7CHfucw",
+            "videoPublishedAt": "2013-11-26T13:49:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "5ETkhW7E0GiyqdmNiW6TEAjPzpg",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 8: The Strategy of Redemption",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2exSG6wTlb4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2exSG6wTlb4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2exSG6wTlb4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2exSG6wTlb4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "2exSG6wTlb4",
+            "videoPublishedAt": "2013-11-26T13:51:59Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "80vnvYtTfM5mHdVcRv1-zx4JUTk",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:27:45Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 9: Look to Jesus",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PJyUPJUEth4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PJyUPJUEth4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PJyUPJUEth4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "PJyUPJUEth4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "PJyUPJUEth4",
+            "videoPublishedAt": "2013-11-26T13:54:13Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "efBRqP7zeSX89pMXG0dT2I6bS78",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 10: Jesus Satisfies Justice",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6HLRYsQ8Snc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6HLRYsQ8Snc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6HLRYsQ8Snc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "6HLRYsQ8Snc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "6HLRYsQ8Snc",
+            "videoPublishedAt": "2013-11-26T13:55:59Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "PyW98bLzSqJ52y9s47m0ngeGGtU",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 11: Jesus the Redeemer",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CdAJNetRyZc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CdAJNetRyZc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CdAJNetRyZc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "CdAJNetRyZc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "CdAJNetRyZc",
+            "videoPublishedAt": "2013-11-26T13:58:05Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sxgpWTDkEslmsV3kk8fwyiVYOUA",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 12: Jesus the Conqueror",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7PyhyR1rEb8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7PyhyR1rEb8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7PyhyR1rEb8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7PyhyR1rEb8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "7PyhyR1rEb8",
+            "videoPublishedAt": "2013-11-26T14:00:05Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "jhXRWpMeP1cj6sU9nSj9WGyG8YY",
+        "id": "UExjUGVRSmdMWXB1VHM5UDFXSl9zbnJIRTBNYWdGYUZFdi5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+            "publishedAt": "2013-11-26T22:28:38Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Lesson 13: You are His Witness",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0oVyfhsHCzQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0oVyfhsHCzQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0oVyfhsHCzQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PLcPeQJgLYpuTs9P1WJ_snrHE0MagFaFEv",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "0oVyfhsHCzQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "0oVyfhsHCzQ",
+            "videoPublishedAt": "2013-11-26T14:02:06Z"
+        }
+    }
+]

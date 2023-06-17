@@ -1,0 +1,1738 @@
+[
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "U_sHjeWal5gdu8kMy3oWRcQeaMM",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkZBRjY5NDA3OTgyNDE2RDU",
+        "snippet": {
+            "publishedAt": "2022-03-08T21:52:26Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "The Power of the Gospel | A Story of Forgiveness",
+            "description": "The Gospel transforms lives and heals broken hearts. A woman heard one of Dr. LaDonna's radio programs broadcast among the Runyankole people in Northern Uganda \r. She was preparing to commit suicide because of the anguish of her heart. The witchdoctor had taken her child and sacrificed her to cancel the spread of Covid. The woman fell into deep depression and she lost the will to live. But when she heard the Good News of Jesus’ love and sacrifice for her, she chose to follow Him. She called the radio station and reported, “I was going to take my life. But when I heard that Jesus died for me, I knew that I didn’t have to die. Now I want to live!” This woman contacted the pastor (who has served as my interpreter) and said, “Come with me to the grave of my daughter. I want to pray and forgive the man who sacrificed her.” THIS IS THE POWER OF THE GOSPEL to heal hearts.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wCVb269qMKc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "wCVb269qMKc",
+            "videoPublishedAt": "2022-03-08T22:26:16Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "WKpDa-0iGQ5_QwNuW3DfjbkzcFw",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjcwRjA0NTgxRjdEQjJCRjk",
+        "snippet": {
+            "publishedAt": "2022-03-15T20:36:26Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Daughters Of Hope | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ezEhfQbrkOY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ezEhfQbrkOY",
+            "videoPublishedAt": "2022-03-15T20:43:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "OjF-7RhMq9oCqsPSgZzdIcIcYoE",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2Ljc4N0JEQjVGMTEzNTczQzc",
+        "snippet": {
+            "publishedAt": "2022-03-09T23:07:35Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Russia-Ukraine Crisis Update & Prayer | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/i2Lr0PLcyH0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/i2Lr0PLcyH0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/i2Lr0PLcyH0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "i2Lr0PLcyH0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "i2Lr0PLcyH0",
+            "videoPublishedAt": "2022-03-10T00:25:39Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "eJAsBgg6GxLX7xnyqP3ZKxpk4eI",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjgxQjk5OUZGMzZGQzg2REI",
+        "snippet": {
+            "publishedAt": "2020-07-15T20:24:01Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "What Is A Counter Culture Christian | Bishop LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "T6k5Y9m6RhQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "T6k5Y9m6RhQ",
+            "videoPublishedAt": "2020-07-15T20:43:02Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "WkkrKjm6jtAOUJmoJkq0a1R-m78",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjBFMzMxQTVBODk1MzI4RkU",
+        "snippet": {
+            "publishedAt": "2021-10-26T16:10:58Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "IGF Virtual Conference 2021 (Complete Conference - 3 Hrs)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "bKKxquBIT_U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "bKKxquBIT_U",
+            "videoPublishedAt": "2021-10-22T00:51:03Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "QYTOrUSbeeEbuNIIuKqyYYYzK4o",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjI0NkZBNTk5MTY2MkM0OTQ",
+        "snippet": {
+            "publishedAt": "2020-04-21T19:53:22Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why We Believe In Miracles | LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UvDTS__I-Q0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "UvDTS__I-Q0",
+            "videoPublishedAt": "2016-06-15T16:12:11Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "liSwx1OtJJAtQbJC9DMG_xeFoGk",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjZBNzY3RTkxMjIxQzQ4OTk",
+        "snippet": {
+            "publishedAt": "2020-12-29T18:03:07Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Soulwinning with LaDonna Osborn - Part 1",
+            "description": "Have you lost the passion for soulwinning, or would you like to know how to win souls? The Church was born in a blaze of personal soul winning as the mission of Jesus Christ became the mission of every believer. Join Marilyn and Sarah welcome LaDonna Osborn and discuss her book Soulwinning. \n\nhttps://marilynandsarah.org\nhttps://savingmoses.org",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "n6awA4o4axs"
+            },
+            "videoOwnerChannelTitle": "Marilyn and Sarah",
+            "videoOwnerChannelId": "UC1xwAqd9sKf6pq6cy6nb1Dg"
+        },
+        "contentDetails": {
+            "videoId": "n6awA4o4axs",
+            "videoPublishedAt": "2020-12-15T15:00:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sjyr20NbJGvNglmphNRuaoDu9f4",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjFCREY5NkIzOURGMDhEOTY",
+        "snippet": {
+            "publishedAt": "2020-12-29T18:05:09Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Soulwinning with LaDonna Osborn – Part 2",
+            "description": "Have you lost the passion for soulwinning, or would you like to know how to win souls? The Church was born in a blaze of personal soul winning as the mission of Jesus Christ became the mission of every believer. Join Marilyn and Sarah welcome LaDonna Osborn and discuss her book, Soulwinning. \n\nhttps://marilynandsarah.org\nhttps://savingmoses.org",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "g9xJMrYJkDI"
+            },
+            "videoOwnerChannelTitle": "Marilyn and Sarah",
+            "videoOwnerChannelId": "UC1xwAqd9sKf6pq6cy6nb1Dg"
+        },
+        "contentDetails": {
+            "videoId": "g9xJMrYJkDI",
+            "videoPublishedAt": "2020-12-16T15:00:27Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "NVE0z551f4Nz6Aq-j8GQL338o7k",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkJGMDlGQzc0MUJBMDNFNkM",
+        "snippet": {
+            "publishedAt": "2020-08-13T20:40:21Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Strategies For Tough Times | WIN Table Talks Podcasts",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "REnL3ZOF4FQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "REnL3ZOF4FQ",
+            "videoPublishedAt": "2020-08-13T20:49:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ucYh298j1LLhBITo408bQrn_ePc",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjNFMTE4MDZGNTU2MjJBOTc",
+        "snippet": {
+            "publishedAt": "2020-07-16T19:05:06Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For LIFE  | Lesson 1",
+            "description": "Christian Absolutes For LIFE  | Lesson 1",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MW5zC0KS8QQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "MW5zC0KS8QQ",
+            "videoPublishedAt": "2020-06-13T19:56:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "R0d_njJ2AafU726HHfgP6PKA5Is",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkQyODZGNjNDQzY5QjEyOUQ",
+        "snippet": {
+            "publishedAt": "2018-08-07T14:35:17Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "It's Your Turn - LaDonna Osborn",
+            "description": "It's Your Turn - LaDonna Osborn",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "5fY3jZvHI3g"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "5fY3jZvHI3g",
+            "videoPublishedAt": "2018-06-15T14:18:35Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Ila9k73iPM4o6YMfsD60Y_9yo94",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjdFOTA1MjY3RUYyQjI3NUI",
+        "snippet": {
+            "publishedAt": "2019-04-16T15:30:10Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "God Raises A Dead Baby",
+            "description": "Gompa City (Ganta), Liberia\nOsborn Ministries International Festival of Faith and Miracles",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "lfx66bcnMwo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "lfx66bcnMwo",
+            "videoPublishedAt": "2019-03-19T20:44:04Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "c9SvDSjy41PwI41XuI2XcWXnpkc",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjhFOTg2N0ZEODZFOTFBM0M",
+        "snippet": {
+            "publishedAt": "2016-06-17T15:19:34Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How To Receive Miracles",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "vF6FBO-si9c"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "vF6FBO-si9c",
+            "videoPublishedAt": "2016-06-09T17:27:36Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ju65Ou49MPYN5kbzCjdSANkIHUE",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjRFNzU5Qzg4RkRGMTQ1M0Q",
+        "snippet": {
+            "publishedAt": "2016-02-10T15:48:28Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Woman Walks After 15 Years Of Crippling Back Pain",
+            "description": "Miracles In Natitingou, Benin\nOnly Heaven can record all of the glorious and supernatural things that are happening at the Osborn Ministry International Festival of Faith & Miracles in Natitingou, Benin. What an honor to be the carrier of God's liberating life to these beautiful people.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FuVn3AQ5aMU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FuVn3AQ5aMU",
+            "videoPublishedAt": "2016-02-04T18:12:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "PdjfpDj2zGW2_UyXOPR5bz7gES4",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkU0N0E1QkI0NUYxQUMzMTM",
+        "snippet": {
+            "publishedAt": "2008-07-03T18:59:43Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "The Gospel Icon Video | Osborn Ministries International",
+            "description": "http://www.Osborn.org/ Although the Bible is a multi-faceted book, written over a period of 2000 years by more than 40 different authors, it contains a remarkably simple message of God's redemption plan for people that is commonly known as the gospel. Once you understand the overarching message of the gospel, you can then discover your own divine purpose as you learn how to live as the unique person God has created you to be.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2h0087rBN4w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2h0087rBN4w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2h0087rBN4w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2h0087rBN4w"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "2h0087rBN4w",
+            "videoPublishedAt": "2008-06-30T16:31:01Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "k7B-4XZta0F6wFqBpAnC6ESmY_s",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkI3QjFFMzZENzNFNjcxMzE",
+        "snippet": {
+            "publishedAt": "2008-07-03T18:59:43Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "DocuMiracle - Java Harvest | Osborn Ministries International",
+            "description": "This clip is a portion of all that God did in Java.  To purchase the entire Video go to http://www.Osborn.org.\r\n\r\nEach film portrays the power of the gospel in action. No fictional stories, drama or actors are involved. Each production is authentic and documentary. Overwhelming is a one-word\r\ndescription of this dynamic 11 DVD series of the ongoing Osborn ministry legacy reaching thousands of lives in over 80 nations!\r\n\r\nThe Osborns have been a dynamic and influential force in world evangelism proclaiming and demonstrating the gospel. Christ showing Himself alive with signs and wonders is the ongoing \r\nevidence that Jesus Christ is the same  yesterday, today and forever.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EPZJQsUO-X4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EPZJQsUO-X4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EPZJQsUO-X4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "EPZJQsUO-X4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "EPZJQsUO-X4",
+            "videoPublishedAt": "2008-06-30T17:20:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "noSn--KFCEy8gm1sEuHxbYz0Luk",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkVBRjU0MDlCQjUwRTlERjA",
+        "snippet": {
+            "publishedAt": "2022-07-15T19:04:57Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Understanding the Kingdom of God | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 16,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7irPNBGB2OE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "7irPNBGB2OE",
+            "videoPublishedAt": "2022-07-15T19:52:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "HNO6s9IXAcqNut5J6OZRojMSlME",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjREOTREQjRFRDU3REJDQjQ",
+        "snippet": {
+            "publishedAt": "2023-02-17T17:30:39Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "God's Human Offspring | Dr  LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 17,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wYtt8rmC8X8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "wYtt8rmC8X8",
+            "videoPublishedAt": "2023-02-17T18:18:36Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "U_sHjeWal5gdu8kMy3oWRcQeaMM",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkZBRjY5NDA3OTgyNDE2RDU",
+        "snippet": {
+            "publishedAt": "2022-03-08T21:52:26Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "The Power of the Gospel | A Story of Forgiveness",
+            "description": "The Gospel transforms lives and heals broken hearts. A woman heard one of Dr. LaDonna's radio programs broadcast among the Runyankole people in Northern Uganda \r. She was preparing to commit suicide because of the anguish of her heart. The witchdoctor had taken her child and sacrificed her to cancel the spread of Covid. The woman fell into deep depression and she lost the will to live. But when she heard the Good News of Jesus’ love and sacrifice for her, she chose to follow Him. She called the radio station and reported, “I was going to take my life. But when I heard that Jesus died for me, I knew that I didn’t have to die. Now I want to live!” This woman contacted the pastor (who has served as my interpreter) and said, “Come with me to the grave of my daughter. I want to pray and forgive the man who sacrificed her.” THIS IS THE POWER OF THE GOSPEL to heal hearts.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wCVb269qMKc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wCVb269qMKc"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "wCVb269qMKc",
+            "videoPublishedAt": "2022-03-08T22:26:16Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "WKpDa-0iGQ5_QwNuW3DfjbkzcFw",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjcwRjA0NTgxRjdEQjJCRjk",
+        "snippet": {
+            "publishedAt": "2022-03-15T20:36:26Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Daughters Of Hope | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ezEhfQbrkOY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ezEhfQbrkOY"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "ezEhfQbrkOY",
+            "videoPublishedAt": "2022-03-15T20:43:49Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "OjF-7RhMq9oCqsPSgZzdIcIcYoE",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2Ljc4N0JEQjVGMTEzNTczQzc",
+        "snippet": {
+            "publishedAt": "2022-03-09T23:07:35Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Russia-Ukraine Crisis Update & Prayer | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/i2Lr0PLcyH0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/i2Lr0PLcyH0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/i2Lr0PLcyH0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "i2Lr0PLcyH0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "i2Lr0PLcyH0",
+            "videoPublishedAt": "2022-03-10T00:25:39Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "eJAsBgg6GxLX7xnyqP3ZKxpk4eI",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjgxQjk5OUZGMzZGQzg2REI",
+        "snippet": {
+            "publishedAt": "2020-07-15T20:24:01Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "What Is A Counter Culture Christian | Bishop LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/T6k5Y9m6RhQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "T6k5Y9m6RhQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "T6k5Y9m6RhQ",
+            "videoPublishedAt": "2020-07-15T20:43:02Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "WkkrKjm6jtAOUJmoJkq0a1R-m78",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjBFMzMxQTVBODk1MzI4RkU",
+        "snippet": {
+            "publishedAt": "2021-10-26T16:10:58Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "IGF Virtual Conference 2021 (Complete Conference - 3 Hrs)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bKKxquBIT_U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "bKKxquBIT_U"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "bKKxquBIT_U",
+            "videoPublishedAt": "2021-10-22T00:51:03Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "QYTOrUSbeeEbuNIIuKqyYYYzK4o",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjI0NkZBNTk5MTY2MkM0OTQ",
+        "snippet": {
+            "publishedAt": "2020-04-21T19:53:22Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Why We Believe In Miracles | LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UvDTS__I-Q0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UvDTS__I-Q0"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "UvDTS__I-Q0",
+            "videoPublishedAt": "2016-06-15T16:12:11Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "liSwx1OtJJAtQbJC9DMG_xeFoGk",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjZBNzY3RTkxMjIxQzQ4OTk",
+        "snippet": {
+            "publishedAt": "2020-12-29T18:03:07Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Soulwinning with LaDonna Osborn - Part 1",
+            "description": "Have you lost the passion for soulwinning, or would you like to know how to win souls? The Church was born in a blaze of personal soul winning as the mission of Jesus Christ became the mission of every believer. Join Marilyn and Sarah welcome LaDonna Osborn and discuss her book Soulwinning. \n\nhttps://marilynandsarah.org\nhttps://savingmoses.org",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/n6awA4o4axs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "n6awA4o4axs"
+            },
+            "videoOwnerChannelTitle": "Marilyn and Sarah",
+            "videoOwnerChannelId": "UC1xwAqd9sKf6pq6cy6nb1Dg"
+        },
+        "contentDetails": {
+            "videoId": "n6awA4o4axs",
+            "videoPublishedAt": "2020-12-15T15:00:31Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "sjyr20NbJGvNglmphNRuaoDu9f4",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjFCREY5NkIzOURGMDhEOTY",
+        "snippet": {
+            "publishedAt": "2020-12-29T18:05:09Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Soulwinning with LaDonna Osborn – Part 2",
+            "description": "Have you lost the passion for soulwinning, or would you like to know how to win souls? The Church was born in a blaze of personal soul winning as the mission of Jesus Christ became the mission of every believer. Join Marilyn and Sarah welcome LaDonna Osborn and discuss her book, Soulwinning. \n\nhttps://marilynandsarah.org\nhttps://savingmoses.org",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/g9xJMrYJkDI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "g9xJMrYJkDI"
+            },
+            "videoOwnerChannelTitle": "Marilyn and Sarah",
+            "videoOwnerChannelId": "UC1xwAqd9sKf6pq6cy6nb1Dg"
+        },
+        "contentDetails": {
+            "videoId": "g9xJMrYJkDI",
+            "videoPublishedAt": "2020-12-16T15:00:27Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "NVE0z551f4Nz6Aq-j8GQL338o7k",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkJGMDlGQzc0MUJBMDNFNkM",
+        "snippet": {
+            "publishedAt": "2020-08-13T20:40:21Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Strategies For Tough Times | WIN Table Talks Podcasts",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/REnL3ZOF4FQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "REnL3ZOF4FQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "REnL3ZOF4FQ",
+            "videoPublishedAt": "2020-08-13T20:49:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ucYh298j1LLhBITo408bQrn_ePc",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjNFMTE4MDZGNTU2MjJBOTc",
+        "snippet": {
+            "publishedAt": "2020-07-16T19:05:06Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Christian Absolutes For LIFE  | Lesson 1",
+            "description": "Christian Absolutes For LIFE  | Lesson 1",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MW5zC0KS8QQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MW5zC0KS8QQ"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "MW5zC0KS8QQ",
+            "videoPublishedAt": "2020-06-13T19:56:37Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "R0d_njJ2AafU726HHfgP6PKA5Is",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkQyODZGNjNDQzY5QjEyOUQ",
+        "snippet": {
+            "publishedAt": "2018-08-07T14:35:17Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "It's Your Turn - LaDonna Osborn",
+            "description": "It's Your Turn - LaDonna Osborn",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/5fY3jZvHI3g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "5fY3jZvHI3g"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "5fY3jZvHI3g",
+            "videoPublishedAt": "2018-06-15T14:18:35Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "Ila9k73iPM4o6YMfsD60Y_9yo94",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjdFOTA1MjY3RUYyQjI3NUI",
+        "snippet": {
+            "publishedAt": "2019-04-16T15:30:10Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "God Raises A Dead Baby",
+            "description": "Gompa City (Ganta), Liberia\nOsborn Ministries International Festival of Faith and Miracles",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lfx66bcnMwo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "lfx66bcnMwo"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "lfx66bcnMwo",
+            "videoPublishedAt": "2019-03-19T20:44:04Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "c9SvDSjy41PwI41XuI2XcWXnpkc",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjhFOTg2N0ZEODZFOTFBM0M",
+        "snippet": {
+            "publishedAt": "2016-06-17T15:19:34Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "How To Receive Miracles",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vF6FBO-si9c/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "vF6FBO-si9c"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "vF6FBO-si9c",
+            "videoPublishedAt": "2016-06-09T17:27:36Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "ju65Ou49MPYN5kbzCjdSANkIHUE",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjRFNzU5Qzg4RkRGMTQ1M0Q",
+        "snippet": {
+            "publishedAt": "2016-02-10T15:48:28Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Woman Walks After 15 Years Of Crippling Back Pain",
+            "description": "Miracles In Natitingou, Benin\nOnly Heaven can record all of the glorious and supernatural things that are happening at the Osborn Ministry International Festival of Faith & Miracles in Natitingou, Benin. What an honor to be the carrier of God's liberating life to these beautiful people.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FuVn3AQ5aMU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "FuVn3AQ5aMU"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "FuVn3AQ5aMU",
+            "videoPublishedAt": "2016-02-04T18:12:41Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "PdjfpDj2zGW2_UyXOPR5bz7gES4",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkU0N0E1QkI0NUYxQUMzMTM",
+        "snippet": {
+            "publishedAt": "2008-07-03T18:59:43Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "The Gospel Icon Video | Osborn Ministries International",
+            "description": "http://www.Osborn.org/ Although the Bible is a multi-faceted book, written over a period of 2000 years by more than 40 different authors, it contains a remarkably simple message of God's redemption plan for people that is commonly known as the gospel. Once you understand the overarching message of the gospel, you can then discover your own divine purpose as you learn how to live as the unique person God has created you to be.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2h0087rBN4w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2h0087rBN4w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2h0087rBN4w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2h0087rBN4w"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "2h0087rBN4w",
+            "videoPublishedAt": "2008-06-30T16:31:01Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "k7B-4XZta0F6wFqBpAnC6ESmY_s",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkI3QjFFMzZENzNFNjcxMzE",
+        "snippet": {
+            "publishedAt": "2008-07-03T18:59:43Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "DocuMiracle - Java Harvest | Osborn Ministries International",
+            "description": "This clip is a portion of all that God did in Java.  To purchase the entire Video go to http://www.Osborn.org.\r\n\r\nEach film portrays the power of the gospel in action. No fictional stories, drama or actors are involved. Each production is authentic and documentary. Overwhelming is a one-word\r\ndescription of this dynamic 11 DVD series of the ongoing Osborn ministry legacy reaching thousands of lives in over 80 nations!\r\n\r\nThe Osborns have been a dynamic and influential force in world evangelism proclaiming and demonstrating the gospel. Christ showing Himself alive with signs and wonders is the ongoing \r\nevidence that Jesus Christ is the same  yesterday, today and forever.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EPZJQsUO-X4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EPZJQsUO-X4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EPZJQsUO-X4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "EPZJQsUO-X4"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "EPZJQsUO-X4",
+            "videoPublishedAt": "2008-06-30T17:20:50Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "noSn--KFCEy8gm1sEuHxbYz0Luk",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LkVBRjU0MDlCQjUwRTlERjA",
+        "snippet": {
+            "publishedAt": "2022-07-15T19:04:57Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "Understanding the Kingdom of God | Dr. LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7irPNBGB2OE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 16,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "7irPNBGB2OE"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "7irPNBGB2OE",
+            "videoPublishedAt": "2022-07-15T19:52:45Z"
+        }
+    },
+    {
+        "kind": "youtube#playlistItem",
+        "etag": "HNO6s9IXAcqNut5J6OZRojMSlME",
+        "id": "UEwwRjYwODJGNjYyMUI1NzA2LjREOTREQjRFRDU3REJDQjQ",
+        "snippet": {
+            "publishedAt": "2023-02-17T17:30:39Z",
+            "channelId": "UCiFLQHG5ZaMw6BAogih0-QA",
+            "title": "God's Human Offspring | Dr  LaDonna Osborn",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wYtt8rmC8X8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "OsbornMinistries",
+            "playlistId": "PL0F6082F6621B5706",
+            "position": 17,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "wYtt8rmC8X8"
+            },
+            "videoOwnerChannelTitle": "OsbornMinistries",
+            "videoOwnerChannelId": "UCiFLQHG5ZaMw6BAogih0-QA"
+        },
+        "contentDetails": {
+            "videoId": "wYtt8rmC8X8",
+            "videoPublishedAt": "2023-02-17T18:18:36Z"
+        }
+    }
+]
