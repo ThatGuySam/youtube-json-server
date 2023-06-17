@@ -5,9 +5,8 @@
   "main": "subreddit.js",
   "scripts": {
     "test": "ava --timeout=1m",
-    "build": "npm run production",
+    "build": "echo 'Hi! 👋 No build needed'",
     "deploy": "now",
-    "dev": "now dev",
     "start": "npm run production",
     "clean": "npm cache clean --force",
     "rebuild-sass": "npm rebuild node-sass --force",
