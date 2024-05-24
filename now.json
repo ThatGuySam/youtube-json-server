@@ -4,10 +4,10 @@
         "api/v1/yt-dlp.py": {
             "maxDuration": 300
         },
-        "playlist-items.js": {
+        "api/v1/playlist-items.js": {
             "maxDuration": 300
         },
-        "channel-broadcasts.js": {
+        "api/v1/channel-broadcasts.js": {
             "maxDuration": 60
         }
     },
@@ -42,10 +42,10 @@
         },
         {
             "source": "/playlist-items/:path*",
-            "destination": "/playlist-items.js"
+            "destination": "api/v1/playlist-items.js"
         },        {
             "source": "/channel-broadcasts/:path*",
-            "destination": "/channel-broadcasts.js"
+            "destination": "api/v1/channel-broadcasts.js"
         },
         {
             "source": "/(.*)",
