@@ -28,6 +28,8 @@ async def get_info(query: str, format: str = DEFAULT_FORMAT):
             "format": format.replace(" ", "+"),
             "retries": 3,
             "encoding": "utf8",
+            "dump_single_json": True,
+            "extract_flat": True,  # equivalent to --flat-playlist
       }
       with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             try:
