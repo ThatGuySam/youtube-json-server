@@ -9,27 +9,45 @@
             "use": "@vercel/static"
         }
     ],
-    "routes": [
+    "headers": [
         {
-            "src": "/api/info",
-            "dest": "api/v1/yt-dlp.py"
+            "source": "/playlist-items/(?<playlistId>[^/]*)",
+            "headers": [
+                {
+                    "key": "cache-control",
+                    "value": "s-maxage=300, stale-while-revalidate"
+                }
+            ]
         },
         {
-            "src": "/api/version",
-            "dest": "api/v1/yt-dlp.py"
+            "source": "/channel-broadcasts/(?<channelId>[^/]*)",
+            "headers": [
+                {
+                    "key": "cache-control",
+                    "value": "s-maxage=60, stale-while-revalidate"
+                }
+            ]
+        }
+    ],
+    "rewrites": [
+        {
+            "source": "/api/info",
+            "destination": "api/v1/yt-dlp.py"
         },
         {
-            "src": "/playlist-items/(?<playlistId>[^/]*)",
-            "headers": {"cache-control": "s-maxage=300, stale-while-revalidate"},
-            "dest": "/playlist-items.js?id=$playlistId"
+            "source": "/api/version",
+            "destination": "api/v1/yt-dlp.py"
+        },
+        {
+            "source": "/playlist-items/(?<playlistId>[^/]*)",
+            "destination": "/playlist-items.js?id=$playlistId"
         },        {
-            "src": "/channel-broadcasts/(?<channelId>[^/]*)",
-            "headers": {"cache-control": "s-maxage=60, stale-while-revalidate"},
-            "dest": "/channel-broadcasts.js?id=$channelId"
+            "source": "/channel-broadcasts/(?<channelId>[^/]*)",
+            "destination": "/channel-broadcasts.js?id=$channelId"
         },
         {
-            "src": "/(.*)",
-            "dest": "/public/$1"
+            "source": "/(.*)",
+            "destination": "/public/$1"
         }
     ]
 }
