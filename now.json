@@ -3,6 +3,7 @@
     "builds": [
         { "src": "playlist-items.js", "use": "@vercel/node" },
         { "src": "channel-broadcasts.js", "use": "@vercel/node" },
+        { "src": "api/v1/yt-dlp.py", "use": "@vercel/python" },
         {
             "src": "public/**",
             "use": "@vercel/static"
