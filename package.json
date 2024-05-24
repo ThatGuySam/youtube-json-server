@@ -35,7 +35,7 @@
   "dependencies": {
     "axios": "^1.7.2",
     "dotenv": "^8.2.0",
-    "googleapis": "^47.0.0"
+    "googleapis": "^137.1.0"
   },
   "devDependencies": {
     "ava": "^3.5.0",
