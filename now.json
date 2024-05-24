@@ -9,6 +9,7 @@
             "use": "@vercel/static"
         }
     ],
+    "functions": { "api/v1/yt-dlp.py": { "maxDuration": 300 } },
     "headers": [
         {
             "source": "/playlist-items/:path*",
