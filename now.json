@@ -10,6 +10,14 @@
     ],
     "routes": [
         {
+            "src": "/api/info",
+            "dest": "api/v1/yt-dlp.py"
+        },
+        {
+            "src": "/api/version",
+            "dest": "api/v1/yt-dlp.py"
+        },
+        {
             "src": "/playlist-items/(?<playlistId>[^/]*)",
             "headers": {"cache-control": "s-maxage=300, stale-while-revalidate"},
             "dest": "/playlist-items.js?id=$playlistId"
