@@ -22,7 +22,6 @@ Deploy the server
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ThatGuySam/youtube-json-server)
 
 
-## Request Private Consulting on this project
 <p align="center">
-  <a href="https://otechie.com/ThatGuySam?ref=badge"><img src="https://api.otechie.com/consultancy/ThatGuySam/badge.svg" alt="Hire Sam Carlton"></a>
+  <a href="https://samcarlton.com">Request Consulting on this project</a>
 </p>
