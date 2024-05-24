@@ -11,7 +11,7 @@
     ],
     "headers": [
         {
-            "source": "/playlist-items/(?<playlistId>[^/]*)",
+            "source": "/playlist-items/:path*",
             "headers": [
                 {
                     "key": "cache-control",
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "source": "/channel-broadcasts/(?<channelId>[^/]*)",
+            "source": "/channel-broadcasts/:path*",
             "headers": [
                 {
                     "key": "cache-control",
