@@ -1,15 +1,16 @@
 {
     "version": 2,
-    "builds": [
-        { "src": "playlist-items.js", "use": "@vercel/node" },
-        { "src": "channel-broadcasts.js", "use": "@vercel/node" },
-        { "src": "api/v1/yt-dlp.py", "use": "@vercel/python" },
-        {
-            "src": "public/**",
-            "use": "@vercel/static"
+    "functions": {
+        "api/v1/yt-dlp.py": {
+            "maxDuration": 300
+        },
+        "playlist-items.js": {
+            "maxDuration": 300
+        },
+        "channel-broadcasts.js": {
+            "maxDuration": 60
         }
-    ],
-    "functions": { "api/v1/yt-dlp.py": { "maxDuration": 300 } },
+    },
     "headers": [
         {
             "source": "/playlist-items/:path*",
