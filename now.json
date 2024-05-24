@@ -1,11 +1,11 @@
 {
     "version": 2,
     "builds": [
-        { "src": "playlist-items.js", "use": "@now/node" },
-        { "src": "channel-broadcasts.js", "use": "@now/node" },
+        { "src": "playlist-items.js", "use": "@vercel/node" },
+        { "src": "channel-broadcasts.js", "use": "@vercel/node" },
         {
             "src": "public/**",
-            "use": "@now/static"
+            "use": "@vercel/static"
         }
     ],
     "routes": [
