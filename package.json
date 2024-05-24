@@ -34,17 +34,17 @@
   "homepage": "https://github.com/ThatGuySam/youtube-json-server#readme",
   "dependencies": {
     "axios": "^1.7.2",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "googleapis": "^137.1.0"
   },
   "devDependencies": {
-    "ava": "^3.5.0",
-    "cross-env": "^7.0.2",
+    "ava": "^3.15.0",
+    "cross-env": "^7.0.3",
     "esm": "^3.2.25",
-    "laravel-mix": "^5.0.4",
+    "laravel-mix": "^5.0.9",
     "puppeteer": "^2.1.1",
     "test-listen": "^1.1.0",
-    "vue-template-compiler": "^2.6.11",
+    "vue-template-compiler": "^2.7.16",
     "zeit-now-node-server": "^1.0.1"
   }
 }
