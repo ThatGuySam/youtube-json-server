@@ -39,11 +39,11 @@
             "destination": "api/v1/yt-dlp.py"
         },
         {
-            "source": "/playlist-items/(?<playlistId>[^/]*)",
-            "destination": "/playlist-items.js?id=$playlistId"
+            "source": "/playlist-items/:path*",
+            "destination": "/playlist-items.js"
         },        {
-            "source": "/channel-broadcasts/(?<channelId>[^/]*)",
-            "destination": "/channel-broadcasts.js?id=$channelId"
+            "source": "/channel-broadcasts/:path*",
+            "destination": "/channel-broadcasts.js"
         },
         {
             "source": "/(.*)",
