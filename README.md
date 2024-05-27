@@ -14,6 +14,19 @@ Deploy the server
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ThatGuySam/youtube-json-server)
 
 
+# Common Issues
+
+Larger playlists may to longer to respond so you may need to upgrade to a Vercel Pro account for that to work. 
+
+As of May 2024 max duration on Hobby Account Serverless Functions is 60 seconds. 
+
+Max Durations by Plan
+https://vercel.com/docs/functions/runtimes#max-duration
+
+Setting Function Max Duration
+https://vercel.com/docs/functions/configuring-functions/duration
+
+
 <p align="center">
   <a href="https://samcarlton.com">Request Consulting on this project</a>
 </p>
