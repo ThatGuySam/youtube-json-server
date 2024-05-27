@@ -5,7 +5,8 @@
   "main": "subreddit.js",
   "scripts": {
     "test": "ava --timeout=1m",
-    "clean": "npm cache clean --force"
+    "clean": "npm cache clean --force",
+    "vercel-dev": "vercel dev"
   },
   "ava": {
     "require": [
