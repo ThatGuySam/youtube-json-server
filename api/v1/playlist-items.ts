@@ -17,6 +17,8 @@ export default async function ( request: VercelRequest, response: VercelResponse
 
         const { base } = path.parse( request.url )
         const playlistApiUrl = new URL( `/api/info?query=https://www.youtube.com/playlist?list=PLaQokWZfgbynBbDjr4U1yMqvxOT8LhnPb`, process.env.VERCEL_URL )
+
+        console.log( `Fetching playlist items from ${playlistApiUrl.href}` )
         
         return response.json( {
             message: 'Hello from the API',
