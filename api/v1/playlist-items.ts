@@ -5,8 +5,6 @@
 
 import 'dotenv/config'
 import process from 'node:process'
-import path from 'node:path'
-import axios from 'axios'
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 
 
@@ -25,15 +23,14 @@ function getPlaylistId ( url: string ): string {
     }
 
     if ( playlistIdIndex !== -1 ) {
-        let playlistId = url.slice( playlistIdIndex + playlistIdPrefix.length )
-        const playlistIdChars = playlistId.split( '' )
+        let playlistId = ''
 
-        for ( const char of playlistIdChars ) {
-            if ( !PLAYLIST_ID_CHARS.includes( char ) ) {
+        for ( let i = playlistIdIndex; i < url.length; i++ ) {
+            if ( PLAYLIST_ID_CHARS.includes( url[ i ] ) ) {
+                playlistId += url[ i ]
+            } else {
                 break
             }
-
-            playlistId += char
         }
 
         return playlistId
@@ -50,20 +47,49 @@ export default async function ( request: VercelRequest, response: VercelResponse
 
         const pythonServerHost = process.env.PYTHON_SERVER_HOST || process.env.VERCEL_URL
         const playlistId = getPlaylistId( request.url )
+        console.log({ playlistId })
         const playlistUrl = `https://www.youtube.com/playlist?list=${ playlistId }`
-        const playlistApiUrl = new URL( `/api/info?query=https://www.youtube.com/playlist?list=${ playlistUrl }`, pythonServerHost )
+        const playlistApiUrl = new URL( `/api/info?query=${ playlistUrl }`, pythonServerHost )
 
         console.log( `Fetching playlist items from ${playlistUrl}` )
-        
-        return response.json( {
-            message: 'Hello from the API',
-            path: request.url,
-            api: playlistApiUrl.href,
-        } )
+        const apiResponse = await fetch( playlistApiUrl.href )
 
-        throw new Error( 'Not implemented' )
+        if ( !apiResponse.ok || !apiResponse.body ) {
+            console.error( `Failed to fetch playlist items from ${playlistUrl}` )
+            console.error( { apiResponse } )
+            throw new Error( `Failed to fetch playlist items from ${playlistUrl}` )
+        }
+
+        // Set headers for streaming response
+        response.setHeader('Content-Type', 'application/json')
+        
+        // Create a reader from the response body
+        const reader = apiResponse.body.getReader()
+        const decoder = new TextDecoder()
+        const encoder = new TextEncoder()
+
+        // Function to read from the stream and write to the response
+        async function streamResponse() {
+            while (true) {
+                const { done, value } = await reader.read()
+                if (done) {
+                    break
+                }
+                const chunk = decoder.decode(value)
+                response.write(encoder.encode(chunk))
+            }
+            response.end()
+        }
+
+        // Stream the response directly to the client
+        streamResponse().catch(err => {
+            console.error('Stream error:', err);
+            response.status(500).json({ message: 'Error', path: request.url });
+        })
     }
     catch ( error ) {
+        console.error( error )
+
         return response
             .status( 500 )
             .json( {
