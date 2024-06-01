@@ -51,7 +51,7 @@ export default async function ( request: VercelRequest, response: VercelResponse
         const playlistUrl = `https://www.youtube.com/playlist?list=${ playlistId }`
         const playlistApiUrl = new URL( `/api/info?query=${ playlistUrl }`, pythonServerHost )
 
-        console.log( `Fetching playlist items from ${playlistUrl}` )
+        console.log( `Fetching playlist items from ${playlistApiUrl}` )
         const apiResponse = await fetch( playlistApiUrl.href )
 
         if ( !apiResponse.ok || !apiResponse.body ) {
