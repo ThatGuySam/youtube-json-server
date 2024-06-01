@@ -46,6 +46,7 @@ export default async function ( request: VercelRequest, response: VercelResponse
         }
 
         const pythonServerHost = process.env.PYTHON_SERVER_HOST || process.env.VERCEL_URL
+        console.log({ pythonServerHost })
         const playlistId = getPlaylistId( request.url )
         console.log({ playlistId })
         const playlistUrl = `https://www.youtube.com/playlist?list=${ playlistId }`
