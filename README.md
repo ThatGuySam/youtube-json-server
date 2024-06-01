@@ -10,8 +10,8 @@ Caches for 5 minutes(set as 300 seconds) which can be updated from /now.json in 
 ## Installation
 
 Deploy the server
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FThatGuySam%2Fyoutube-json-server)
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/ThatGuySam/youtube-json-server)
 
 
 # Common Issues
