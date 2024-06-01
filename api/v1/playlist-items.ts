@@ -45,10 +45,9 @@ export default async function ( request: VercelRequest, response: VercelResponse
             throw new Error( 'No URL' )
         }
 
-        const pythonServerHost = process.env.PYTHON_SERVER_HOST || process.env.VERCEL_URL
-        console.log({ pythonServerHost })
+        // Vercel URL doesn't include the protocol by default
+        const pythonServerHost = `https://${process.env.PYTHON_SERVER_HOST || process.env.VERCEL_URL}`
         const playlistId = getPlaylistId( request.url )
-        console.log({ playlistId })
         const playlistUrl = `https://www.youtube.com/playlist?list=${ playlistId }`
         const playlistApiUrl = new URL( `/api/info?query=${ playlistUrl }`, pythonServerHost )
 
